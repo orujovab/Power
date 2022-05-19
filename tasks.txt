@@ -1,3 +1,12672 @@
+
+1
+Simple problem
+49838 / 55679
+
+
+2
+Digits
+28732 / 36510
+
+
+3
+Match’s model
+3692 / 17102
+
+
+4
+Two circles
+8722 / 14141
+
+
+5
+Two factors
+2231 / 5939
+
+
+6
+The vouchers
+1397 / 2209
+
+
+7
+Roman numerals
+3114 / 4449
+
+
+8
+Matches
+4608 / 6855
+
+
+9
+N-digit numbers
+3354 / 5032
+
+
+10
+Gardener
+3229 / 4431
+
+
+11
+Big accuracy
+3954 / 6522
+
+
+12
+Injured Picture
+851 / 1299
+
+
+13
+Spider and Fly
+1598 / 2915
+
+
+14
+Rabbit-failure
+1781 / 2388
+
+
+15
+Mouse and corns
+4174 / 5439
+
+
+16
+Dragon
+1759 / 2790
+
+
+17
+Gardener-painter
+4002 / 5146
+
+
+18
+Paint2D
+798 / 1651
+
+
+19
+Degree of symmetry
+7403 / 8748
+
+
+20
+How many times to repeat?
+5499 / 8223
+
+
+21
+Corruption
+167 / 1775
+
+
+22
+"Mirror prime" numbers
+2940 / 5162
+
+
+23
+New-year tree
+927 / 1986
+
+
+24
+Paint2D-Crack
+60 / 332
+
+
+25
+Paint3D
+625 / 925
+
+26
+New-year presents
+1435 / 1896
+
+
+27
+Cycle shifts
+4441 / 5384
+
+
+28
+Product
+620 / 1500
+
+
+29
+The level of palindrome
+2306 / 3186
+
+
+30
+Certification
+112 / 263
+
+
+31
+Superstitious Santa Claus
+1219 / 1445
+
+
+32
+Queen and pawn
+161 / 465
+
+
+33
+The favourite numbers of Santa Claus
+1784 / 2724
+
+
+34
+The word of sponsor
+1370 / 1753
+
+
+35
+Triangles from Matches
+654 / 1699
+
+
+36
+Gorynych the Dragon
+1271 / 1831
+
+
+37
+Mail of the sponsor
+1010 / 1249
+
+
+38
+Firs conversation
+93 / 222
+
+
+39
+Sponsor’s money
+423 / 598
+
+
+40
+Pipeline (RU)
+257 / 460
+
+
+41
+Command of the Mayor
+423 / 644
+
+
+42
+Green spot
+100 / 265
+
+
+43
+Competitors’ quantity of olimpia
+2819 / 3878
+
+
+44
+The number of ones
+2651 / 3781
+
+
+45
+The Fuel
+155 / 219
+
+
+46
+The Segments
+1293 / 1686
+
+
+47
+The Parquet of the Triangles
+647 / 840
+
+
+48
+The Red and Blue Squares
+425 / 626
+
+
+49
+The Smart Cat
+737 / 1120
+
+
+50
+The cut number
+378 / 551
+
+
+51
+The Cost of the K-dominoes
+840 / 973
+
+
+52
+The Cheese for Anfisa
+846 / 1054
+
+
+53
+Anfisa’s Holiday
+92 / 192
+
+
+54
+Murzyk
+484 / 1276
+
+
+55
+The presents to the 8th of March
+713 / 1156
+
+
+56
+The Butterflies
+35 / 180
+
+
+57
+The Butterfly – Medical Attendan
+3719 / 4143
+
+
+58
+The Billiards
+1097 / 1471
+
+
+59
+The Cells are Painted out
+63 / 138
+
+
+60
+Area of a Polygon
+2752 / 3493
+
+
+61
+Cleaning up the Snow
+448 / 549
+
+
+62
+The Factorial
+2113 / 3966
+
+
+63
+Anfisa and the flowers
+6708 / 7937
+
+
+64
+The Timetable from "Diez-Product"
+174 / 234
+
+
+65
+The Candies
+133 / 569
+
+
+66
+The Directors’ Visitors
+1644 / 2019
+
+
+67
+Cheese for Anfisa - 2
+3914 / 4402
+
+
+68
+Metro
+126 / 181
+
+
+69
+Vinnis’ Friends
+361 / 414
+
+
+70
+Industrious bees
+355 / 408
+
+
+71
+The Expression from the Numbers
+174 / 240
+
+
+72
+The Way Home
+537 / 650
+
+
+73
+Phibonachies’ Numbers
+510 / 645
+
+
+74
+Spider and Fly - 2
+130 / 443
+
+
+75
+Pirates and coins
+6290 / 6987
+
+
+76
+New case
+5237 / 6791
+
+
+77
+The Garland
+728 / 981
+
+
+78
+Islands
+93 / 197
+
+
+79
+The Genome of Newton
+51 / 150
+
+
+80
+Discounts
+674 / 834
+
+
+81
+Points
+44 / 119
+
+
+82
+Catacombs
+23 / 66
+
+
+83
+Gnome’s toys
+924 / 1107
+
+
+84
+Transfer
+43 / 69
+
+
+85
+Spiral
+2431 / 2751
+
+
+86
+Waterpipe - 2
+370 / 479
+
+
+87
+Robot
+3683 / 4468
+
+
+88
+LeChuck’s Revenge
+73 / 115
+
+
+89
+Cube Painting
+744 / 827
+
+
+90
+Gold, Food and Power
+28 / 59
+
+
+91
+A Piece of Paper
+2 / 31
+
+
+92
+Subprojects
+1207 / 1347
+
+
+93
+Truck Driving
+64 / 107
+
+
+94
+Primes’ Problem
+52 / 86
+
+
+95
+No More Hapalies!
+324 / 446
+
+
+96
+Automat
+7 / 29
+
+
+97
+Bell numbers
+69 / 84
+
+
+99
+Lines
+8 / 35
+
+
+100
+Pareto domination
+7 / 70
+
+
+101
+Permutations with given distance
+11 / 27
+
+102
+Polyhedron
+3 / 16
+
+
+103
+Process simulation
+11 / 28
+
+
+104
+Rope pulling – 2
+2 / 22
+
+
+105
+Sets in a four-partite graph
+1 / 13
+
+
+106
+Tokens
+2 / 30
+
+
+107
+Compact discs
+4153 / 6186
+
+
+108
+Median number
+14344 / 16873
+
+
+109
+Page numbering
+3479 / 4775
+
+
+110
+Game
+1259 / 2053
+
+
+111
+Clocks
+1487 / 2237
+
+
+112
+Cake
+4550 / 5846
+
+
+113
+Balloons
+3244 / 3780
+
+
+114
+Prison escape
+104 / 516
+
+
+115
+Two digits
+5729 / 6739
+
+
+116
+Long number (RU)
+654 / 1145
+
+
+117
+Raft
+1109 / 1376
+
+
+118
+Game - 2 (RU)
+278 / 455
+
+
+119
+Degree of two
+1905 / 2524
+
+
+120
+N-unit numbers - 2
+326 / 551
+
+
+121
+CD-stock exchange
+95 / 133
+
+
+122
+Mountain routes
+1355 / 1632
+
+
+123
+Number of zeroes in factorial
+3041 / 4037
+
+
+124
+Square
+3027 / 4848
+
+
+125
+Olympiad
+7475 / 9040
+
+
+126
+Number of an apartment
+127
+Dollars in bank
+2482 / 3359
+
+
+128
+Lucky tickets
+4231 / 4802
+
+
+129
+Sections in a circle (RU)
+1276 / 1777
+
+
+130
+Rectangle
+1371 / 2424
+
+
+131
+Words
+819 / 1078
+
+
+132
+Broken line (RU)
+85 / 255
+
+
+133
+Square and points (RU)
+6280 / 6979
+
+
+134
+Two circle - 2 (RU)
+640 / 751
+
+
+135
+LCM
+1339 / 3694
+
+
+136
+The Segment
+2531 / 3229
+
+
+137
+GCD
+6400 / 7287
+
+
+138
+Cash machine
+7018 / 8110
+
+
+139
+Population of robots (RU)
+280 / 535
+
+
+140
+Financial pyramid (RU)
+863 / 1134
+
+
+141
+The minimal sum of digits
+2460 / 2980
+
+
+142
+Point and piece (RU)
+1729 / 2312
+
+
+143
+Point and triangle
+3058 / 3874
+
+
+144
+Quadrilateral
+2466 / 3069
+
+
+145
+Squares
+2143 / 2475
+
+
+146
+Squares - 2
+1125 / 1308
+
+
+147
+Quantity of days (RU)
+395 / 825
+
+
+148
+Economic game "P&T" (RU)
+145 / 278
+
+
+149
+Factorial - 2
+917 / 1753
+
+
+150
+Polygonal chain - 2
+31 / 146
+
+
+151
+Polygon
+356 / 457
+
+152
+New-year presents - 2
+137 / 250
+
+
+153
+Two rectangulars (RU)
+318 / 562
+
+
+154
+Pieces - 2
+52 / 137
+
+
+155
+The scientific project
+55 / 99
+
+
+156
+Two-dimensional domino (RU)
+26 / 53
+
+
+157
+Zoo
+4029 / 4489
+
+
+158
+New number Fibonacci (RU)
+363 / 712
+
+
+159
+Festival (RU)
+47 / 68
+
+
+160
+Dancing school (RU)
+108 / 178
+
+
+161
+Robots (RU)
+59 / 109
+
+
+162
+Unhappy numbers (RU)
+2 / 28
+
+
+163
+Happy figures (RU)
+34 / 120
+
+
+164
+Postcards (RU)
+2 / 20
+
+
+165
+Symmetry (RU)
+395 / 474
+
+
+166
+Streetraicing (RU)
+8 / 23
+
+
+167
+Progressions (RU)
+46 / 121
+
+
+168
+Lomonosov our days (RU)
+77 / 208
+
+
+169
+Skyscrapers (RU)
+6 / 11
+
+
+170
+Bag of fake money
+19 / 197
+
+
+171
+Traffic jams (RU)
+6 / 20
+
+
+172
+Swapping of data (RU)
+8 / 49
+
+
+173
+Syntax UML (RU)
+6 / 34
+
+
+174
+Cities - competitors (RU)
+37 / 57
+
+
+175
+Traffic lights (RU)
+8 / 22
+
+
+176
+Chieftain selection (RU)
+1963 / 2398
+
+177
+Poker (RU)
+487 / 551
+
+
+178
+Each third is free (RU)
+623 / 798
+
+
+179
+Redistribution (RU)
+630 / 734
+
+
+180
+Graveyard (RU)
+41 / 72
+
+
+181
+Food program (RU)
+12 / 71
+
+
+182
+Conscription
+802 / 1150
+
+
+183
+Relatives (RU)
+88 / 131
+
+
+184
+Parcelling (RU)
+5 / 14
+
+
+185
+Orks of the future
+226 / 364
+
+
+186
+Egyptian symbols
+570 / 760
+
+
+187
+Minibuses (RU)
+49 / 89
+
+
+188
+Colored Wizards
+94 / 119
+
+
+189
+Bonding (RU)
+3 / 20
+
+
+190
+Roads in the Kingdom (RU)
+11 / 55
+
+
+191
+Uniform flow (RU)
+3 / 74
+
+
+192
+Just Fibonacci (RU)
+1622 / 2243
+
+
+193
+The sum of figures (RU)
+476 / 687
+
+
+194
+Product of figures (RU)
+389 / 538
+
+
+195
+Degree (RU)
+30 / 246
+
+
+196
+Simple game (RU)
+55 / 105
+
+
+197
+Piece and circles (RU)
+347 / 440
+
+
+198
+Green plantings (RU)
+42 / 86
+
+
+199
+Coloring Rectangles (RU)
+8 / 25
+
+
+200
+Quadrilateral - 2
+671 / 1068
+
+
+201
+Circles - 2 (RU)
+1099 / 1556
+
+
+202
+Cubes (RU)
+187 / 262
+
+
+203
+Cubes - 2 (RU)
+280 / 322
+
+
+204
+Inflation rate (RU)
+10 / 71
+
+
+205
+The first is not a palindrome (RU)
+155 / 252
+
+
+206
+Tourist
+4935 / 6349
+
+
+207
+Traffic lights - 2 (RU)
+10 / 16
+
+
+208
+Macros (RU)
+3 / 8
+
+
+209
+Copy Protection (RU)
+53 / 81
+
+
+210
+Names of poems (RU)
+2 / 15
+
+
+211
+Mushroom hunting (RU)
+11 / 41
+
+
+212
+Fence Kopatycha (RU)
+9 / 32
+
+
+213
+Bring hamsters (RU)
+4 / 13
+
+
+214
+Hamsters on a torus (RU)
+4 / 7
+
+
+215
+Compote harvesting (RU)
+203 / 227
+
+
+216
+Treasure hunt (RU)
+0 / 19
+
+
+217
+Big secret (RU)
+25 / 36
+
+
+218
+Shaman
+17 / 33
+
+
+219
+Central heating
+5794 / 6795
+
+
+220
+Liars (RU)
+269 / 350
+
+
+221
+Mountaineering (RU)
+72 / 125
+
+
+222
+Tanglegram (RU)
+16 / 45
+
+
+223
+Evolution (RU)
+602 / 779
+
+
+224
+The dealer (RU)
+47 / 71
+
+
+225
+Circles
+88 / 200
+
+
+226
+Olympiad and Internet (RU)
+897 / 1398
+
+
+227
+Venusian programmers
+1 / 9
+
+
+228
+Crocodile Hunting – 2
+6 / 23
+
+
+229
+Boundaries
+12 / 20
+
+
+230
+Brackets parade
+149 / 200
+
+
+231
+Adventures
+0 / 11
+
+
+232
+Lazy visitor
+0 / 15
+
+
+233
+The Neighbor
+3 / 10
+
+
+234
+Mafia
+58 / 94
+
+
+235
+Spring Time
+96 / 127
+
+
+236
+Triomino
+401 / 596
+
+
+237
+Immovable Elements of a Matrix
+42 / 106
+
+
+238
+Wolves
+34 / 51
+
+
+239
+Triangles
+108 / 211
+
+
+240
+Similarity (RU)
+27 / 73
+
+
+241
+Bog (RU)
+8 / 25
+
+
+242
+Prime Number (RU)
+111 / 178
+
+
+243
+Polygon (RU)
+6 / 17
+
+
+244
+The cross-country vehicle (RU)
+3 / 9
+
+
+245
+The best approximation of pi (RU)
+226 / 291
+
+
+246
+Pyramid
+74 / 170
+
+
+247
+Unhappy bus
+1076 / 1222
+
+
+248
+Young gardener
+12957 / 13729
+
+
+249
+The Very Hard One
+423 / 693
+
+
+250
+Robots and Oil Transportation Sy
+16 / 34
+
+
+251
+Symmetry 2
+5 / 39
+
+
+252
+The Shortest does not Mean the S
+251 / 626
+
+
+253
+Watermelon Fields Wonderland Countries Fools
+10 / 35
+
+
+254
+Martian King
+22 / 30
+
+
+255
+License Software
+2046 / 2602
+
+
+256
+Chain fraction (RU)
+137 / 174
+
+
+257
+Gambling
+155 / 219
+
+
+258
+A box of chocolate
+30 / 55
+
+
+259
+Genetic Engineering
+217 / 279
+
+
+260
+Pumpkin porridge
+1353 / 1511
+
+
+261
+An aliquot fraction (RU)
+7 / 25
+
+
+262
+The staircase
+2045 / 2621
+
+
+263
+Three ones
+4299 / 4843
+
+
+264
+The greatest sequence multiple subsequence
+437 / 611
+
+
+265
+Vertex Cover
+1556 / 2427
+
+
+266
+Comparison
+2882 / 3938
+
+
+267
+Subtraction
+2467 / 3405
+
+
+268
+Star Routes
+94 / 120
+
+
+269
+Four Circles
+228 / 271
+
+
+270
+CheckSum
+27 / 49
+
+
+271
+Factorial!
+2966 / 4576
+
+
+272
+Multiplication
+2297 / 3278
+
+
+273
+Modular Exponentiation
+4409 / 5777
+
+
+274
+Type printer
+26 / 53
+
+
+275
+Islands
+5 / 22
+
+
+276
+Fish
+4 / 23
+
+277
+Linear Garden
+13 / 21
+
+
+278
+Piramid base
+1 / 22
+
+
+279
+Teleporters
+9 / 26
+
+
+280
+Cleaning the territory
+1792 / 2000
+
+
+281
+Flood
+2 / 18
+
+
+282
+Sails
+7 / 35
+
+
+283
+Miners
+25 / 48
+
+
+284
+Pairs
+6 / 14
+
+
+285
+Training
+7 / 11
+
+
+287
+Archery
+9 / 25
+
+
+288
+Hiring
+21 / 27
+
+
+289
+POI
+61 / 85
+
+
+290
+Raisins
+41 / 58
+
+
+291
+Garage
+524 / 605
+
+
+292
+Mecho
+210 / 263
+
+
+294
+Salesman
+13 / 24
+
+
+295
+Circle
+1322 / 2020
+
+
+296
+The painted over sections 2
+55 / 179
+
+
+297
+The painted points
+218 / 344
+
+
+298
+Green spot - 2
+34 / 76
+
+
+299
+Circle and Points
+16 / 47
+
+
+300
+Apocalyptic Alignment
+15 / 51
+
+
+301
+Boundless Boxes
+11 / 18
+
+
+302
+Cargo Carriage
+4 / 11
+
+
+303
+Dreadful Deadlines
+34 / 47
+
+304
+Earthquake Emendations
+6 / 10
+
+
+305
+Folded Fixtures
+6 / 12
+
+
+306
+Globulous Gumdrops
+8 / 15
+
+
+307
+Honed Hops
+4 / 11
+
+
+308
+Knicht and pawn against a Knicht
+120 / 167
+
+
+309
+The bishop and pawn against the bishop
+24 / 90
+
+
+310
+The letter from Prostokvashino (RU)
+38 / 63
+
+
+311
+Maximum quantity of figures
+107 / 150
+
+
+312
+ACM
+375 / 569
+
+
+313
+A + B (RU)
+1751 / 2317
+
+
+314
+A + B ? (RU)
+923 / 1247
+
+
+315
+Effects of fishing (RU)
+37 / 93
+
+
+316
+The fire inspector (RU)
+17 / 107
+
+
+317
+Very rapid multiplication of (RU)
+462 / 1375
+
+
+318
+Binomial coefficients 1
+629 / 1102
+
+
+319
+Binomial coefficients 2
+197 / 255
+
+
+320
+Binomial coefficients 3
+4 / 14
+
+
+321
+Binomial coefficients 4
+33 / 86
+
+
+322
+Binomial coefficients 5
+2 / 14
+
+
+323
+Flies (RU)
+24 / 53
+
+
+324
+Numbers
+370 / 791
+
+
+325
+Dangerous route
+436 / 589
+
+
+326
+Mountains (RU)
+32 / 83
+
+
+327
+Forecasters (RU)
+84 / 151
+
+
+328
+Teleport (RU)
+16 / 26
+
+
+329
+Number of words
+2931 / 5319
+
+
+330
+Word the champion
+767 / 1749
+
+
+331
+The offer the champion
+207 / 346
+
+
+332
+The children`s railway
+119 / 333
+
+
+333
+The children`s railway - 2 (RU)
+51 / 165
+
+
+334
+Divide or pick up? (RU)
+147 / 263
+
+
+335
+Game with switches
+1285 / 1483
+
+
+336
+Only one lot? (RU)
+97 / 165
+
+
+337
+Grandfather folded or not folded? (RU)
+5 / 25
+
+
+338
+My favorite, irreducible...
+638 / 913
+
+
+339
+Again irreducible
+1039 / 1221
+
+
+340
+Once - peas, two - peas...
+324 / 386
+
+
+341
+Influenza AH1N1
+8 / 14
+
+
+342
+Dr. House in the morgue
+11 / 25
+
+
+343
+Target Ethan Hunt
+3 / 7
+
+
+344
+Three Little Pigs
+45 / 53
+
+
+345
+Progress artillery
+4 / 13
+
+
+346
+Progress in the artillery continues
+8 / 16
+
+
+347
+Time to lay out the stones
+1 / 18
+
+
+348
+Median sequence
+1 / 6
+
+
+349
+Economical housewife
+86 / 154
+
+
+350
+Ancient labyrinth
+44 / 53
+
+
+351
+Cities of the Nile
+5 / 18
+
+
+352
+Минимальная зарплата
+1672 / 2092
+
+
+353
+Candies
+454 / 802
+
+
+354
+Permutation
+2002 / 2578
+
+
+355
+Railways
+69 / 109
+
+
+356
+Launch
+92 / 222
+
+
+357
+Maximum Salary
+2044 / 2410
+
+
+358
+Progress in artillery begins
+1332 / 1480
+
+
+359
+Circle and line
+612 / 848
+
+
+360
+Chain
+65 / 95
+
+
+361
+Interschool network
+12 / 35
+
+
+362
+Difference in wages
+1131 / 1420
+
+
+363
+Robots
+26 / 134
+
+
+364
+Dictionary
+96 / 187
+
+
+365
+Frame
+83 / 124
+
+
+366
+Equal numbers
+136 / 268
+
+
+367
+RSA Factorization
+54 / 61
+
+
+368
+Hard-working Student
+10 / 14
+
+
+369
+System Engineer
+46 / 52
+
+
+370
+Cycles of Lanes
+60 / 67
+
+
+371
+Multiprocessor Scheduling
+0 / 7
+
+
+372
+Maze Stretching
+44 / 51
+
+
+373
+Software Industry Revolution
+46 / 57
+
+
+374
+The Lucky Numbers
+3 / 9
+
+
+375
+The Robbery
+9 / 17
+
+
+376
+The Computer Game
+0 / 4
+
+
+377
+The Bad Number
+11 / 21
+
+
+378
+Mysterious Note
+1196 / 1321
+
+379
+Fault protection
+313 / 381
+
+
+380
+Clash of the Titans
+115 / 135
+
+
+381
+Terrible number
+534 / 725
+
+
+382
+Pear
+1050 / 1217
+
+
+383
+Histogram
+259 / 366
+
+
+384
+Mitin crib
+58 / 65
+
+
+385
+DVD and slut
+20 / 61
+
+
+386
+Simple arithmetic
+12 / 41
+
+
+387
+DVD and a napkin
+226 / 247
+
+
+388
+Transformation
+6544 / 6957
+
+
+389
+Разложение на простые слагаемые
+57 / 125
+
+
+390
+Anagrams
+1344 / 1836
+
+
+391
+Калькулятор
+316 / 365
+
+
+392
+Подарки
+59 / 83
+
+
+393
+Реформа английского языка
+9 / 39
+
+
+394
+Покупка в кредит
+44 / 60
+
+
+395
+"Простые" числа
+1023 / 1206
+
+
+396
+Дождь
+76 / 106
+
+
+397
+Сумма
+1 / 27
+
+
+398
+Cake for Sergei
+816 / 1204
+
+
+399
+The consequences of influenza in Prostokvashino
+552 / 738
+
+
+400
+Путешествия гномов
+56 / 108
+
+
+401
+Shariks Letter from Prostokvashino
+310 / 425
+
+
+402
+Complete Tree Labeling
+20 / 53
+
+
+403
+Agent
+31 / 59
+
+
+404
+Building
+66 / 89
+
+
+405
+Crazy frog
+24 / 32
+
+
+406
+Directions
+10 / 23
+
+
+407
+Exchange
+6167 / 6897
+
+
+408
+Fence
+25 / 32
+
+
+409
+Game
+7 / 23
+
+
+410
+Hadron Collider
+7 / 15
+
+
+411
+Intersections
+4 / 11
+
+
+412
+Jammed
+17 / 25
+
+
+413
+Euclid algorithm
+395 / 961
+
+
+414
+Equation
+559 / 733
+
+
+415
+"Хорошие" перестановки
+17 / 30
+
+
+416
+Lectures
+1 / 6
+
+
+417
+Amount
+18 / 99
+
+
+418
+Triangle
+856 / 940
+
+
+419
+The 3n + 1 problem
+2403 / 2998
+
+
+420
+From guns to the Moon
+526 / 715
+
+
+421
+Yo-Yo
+5334 / 6189
+
+
+422
+Snake
+140 / 219
+
+
+423
+Award
+202 / 237
+
+
+424
+Rectangles
+52 / 70
+
+
+425
+Chess
+15 / 26
+
+
+426
+Division
+31 / 85
+
+
+427
+Assessment
+133 / 193
+
+
+428
+Cannon
+179 / 208
+
+
+429
+Game Zuma
+13 / 38
+
+
+430
+Hamsters and Rabbits
+25 / 44
+
+
+431
+Counting on Tree
+206 / 250
+
+
+432
+Dungeon Master
+561 / 692
+
+
+433
+Guardian of Decency
+10 / 36
+
+
+434
+Romero’s Dilemma
+14 / 19
+
+
+435
+Prime Path
+93 / 100
+
+
+436
+Intersection
+6 / 21
+
+
+437
+Ancestors
+182 / 233
+
+
+438
+XML-converter
+2 / 10
+
+
+439
+Brackets
+23 / 69
+
+
+440
+Counterfeit check
+62 / 101
+
+
+441
+The most round number
+889 / 1034
+
+
+442
+Constructions
+327 / 451
+
+
+443
+ICQ
+504 / 564
+
+
+444
+Battleships
+103 / 176
+
+
+445
+Excursion
+6 / 25
+
+
+446
+Smooth Divisors
+6154 / 6446
+
+
+447
+Many number
+6 / 45
+
+
+448
+Chords
+17 / 69
+
+
+449
+Straight Dividers 2
+24 / 94
+
+
+450
+Spiral
+214 / 364
+
+
+451
+base64
+0 / 10
+
+
+452
+Shelves
+16 / 32
+
+
+453
+Restaurants
+4 / 16
+
+
+454
+Changeling
+0 / 53
+
+
+455
+Circular route
+0 / 10
+
+
+456
+Game
+1 / 13
+
+
+457
+Similar numbers
+34 / 82
+
+
+458
+Black and white graphics
+869 / 983
+
+
+459
+Lawn
+56 / 132
+
+
+460
+Tram
+29 / 54
+
+
+461
+Triangles
+40 / 113
+
+
+462
+Keyboard
+2463 / 2632
+
+
+463
+Incorrect addition
+101 / 135
+
+
+464
+Numbers
+59 / 78
+
+
+465
+Permutations
+15 / 34
+
+
+466
+Memory
+46 / 88
+
+
+467
+Satellite
+58 / 143
+
+
+468
+Tree
+484 / 641
+
+
+469
+Snooker
+5 / 15
+
+
+470
+Super palindromes
+334 / 399
+
+
+471
+Robot
+8 / 35
+
+
+472
+Вероятность
+270 / 300
+
+
+473
+Возвышенность
+184 / 249
+
+
+474
+Максимум
+293 / 528
+
+
+475
+Шифр
+319 / 432
+
+
+476
+Кратное
+11 / 55
+
+
+477
+Sum of cubes
+484 / 735
+
+
+478
+White cubes
+3687 / 4369
+
+
+479
+Вышивка “крестиком”
+417 / 506
+
+
+480
+Exponentiation - 2
+1457 / 2098
+
+
+481
+Repeat: how many times to repeat?
+121 / 506
+
+
+482
+Tri Tiling
+1397 / 1537
+
+
+483
+Cut frame
+3 / 18
+
+
+484
+Линейный чёрный ящик
+2 / 18
+
+
+485
+Collision balls
+8 / 27
+
+
+486
+Inexact string
+3 / 29
+
+
+487
+Discrete logarithm
+39 / 62
+
+
+488
+Bypass matrix with "snake"
+1493 / 1653
+
+
+489
+Бермудский треугольник
+41 / 66
+
+
+490
+Coding
+1018 / 1138
+
+
+491
+Palindrome
+10 / 56
+
+
+492
+Transformations
+63 / 110
+
+
+493
+Decomposition
+15 / 29
+
+
+494
+AEIOUY
+6129 / 6564
+
+
+495
+Expansion of
+144 / 240
+
+
+496
+Permutation
+885 / 997
+
+
+497
+Lazybones
+2217 / 2637
+
+
+498
+Mythical Chess
+95 / 117
+
+
+499
+Dream
+28 / 53
+
+
+500
+Repair
+5116 / 6107
+
+
+501
+Playing the fool
+38 / 76
+
+
+502
+Грибной дождь
+74 / 97
+
+
+503
+Honey
+46 / 83
+
+
+504
+Parking
+1210 / 1402
+
+
+505
+Crossword
+142 / 165
+
+
+506
+New compiler
+944 / 1199
+
+
+507
+Secret Bunker
+6 / 21
+
+
+508
+Minimization template
+77 / 91
+
+
+509
+Sticks
+45 / 93
+
+
+510
+Toasts
+1141 / 1837
+
+
+511
+Guess the number
+457 / 530
+
+
+512
+Night at Nicholas
+77 / 149
+
+
+513
+Nicholas Problem
+1580 / 1924
+
+
+514
+Time for Nicholas
+1662 / 2129
+
+
+515
+Fathers problems
+4 / 18
+
+
+516
+Help Vasya
+3 / 8
+
+
+517
+Assignment of Nicholas
+217 / 294
+
+
+518
+Sum of two
+6027 / 6617
+
+
+519
+Sum of squares
+9913 / 11259
+
+
+520
+The sum of all
+3712 / 4434
+
+
+521
+Asteroids
+30 / 36
+
+
+522
+Business Center
+51 / 60
+
+
+523
+Central Element
+0 / 11
+
+
+524
+Database
+31 / 40
+
+
+525
+Exclusive Access 2
+31 / 38
+
+
+526
+Funny Language
+0 / 8
+
+
+527
+Garbling Game
+3 / 6
+
+
+528
+Headshot
+61 / 74
+
+
+529
+Inspection
+0 / 6
+
+
+530
+Java Certification
+0 / 3
+
+
+531
+K-equivalence
+2 / 3
+
+
+532
+Series / Parallel Resistor Circuits
+1 / 4
+
+
+533
+The Heart of the Country
+3 / 10
+
+
+534
+Lawrence of Arabia
+20 / 40
+
+
+535
+Shoring Up the Levees
+30 / 31
+
+
+536
+Combination Lock
+62 / 69
+
+
+537
+Fred’s Lotto Tickets
+165 / 178
+
+
+538
+A No-Win Situation
+3 / 6
+
+
+539
+A Walk in the Park
+50 / 54
+
+
+540
+Teleport Out!
+1 / 3
+
+
+541
+Worms
+4 / 9
+
+
+542
+Soda Surplier
+4105 / 4569
+
+
+543
+Money Matters
+179 / 236
+
+
+544
+Allergy Test
+78 / 103
+
+
+545
+Rain Fall
+73 / 92
+
+
+546
+Speedy Escape
+69 / 148
+
+
+547
+Gokigen Naname
+53 / 58
+
+
+548
+Flight Planning
+128 / 144
+
+
+549
+Beacons
+43 / 47
+
+
+550
+Playfair Cipher
+54 / 57
+
+
+551
+Code Permutations
+45 / 49
+
+
+552
+Numerical sequence
+52 / 77
+
+
+553
+Recursion
+260 / 318
+
+
+554
+Inscribed Circle
+104 / 182
+
+
+555
+The nearest points
+1034 / 1247
+
+
+556
+The sum of two numbers
+47 / 136
+
+
+557
+Cutting rectangle
+4 / 5
+
+
+558
+Колония бактерий
+87 / 112
+
+
+559
+Велосипед
+14 / 42
+
+
+560
+Ray of Light
+9 / 22
+
+
+561
+Interesting equation
+8 / 83
+
+
+562
+Progress in the artillery does not stop
+60 / 121
+
+
+563
+Simple equation
+701 / 951
+
+
+564
+Lagrange
+113 / 163
+
+
+565
+Imposing figures
+3 / 16
+
+
+566
+Letter of postman Pechkin
+409 / 463
+
+
+567
+Only three handfuls!
+8 / 38
+
+
+568
+Average Salary
+980 / 1222
+
+
+569
+Поедание сыра
+1 / 5
+
+
+570
+The programming competition
+10 / 19
+
+
+571
+The greatest common divisor
+2422 / 2711
+
+
+572
+The Lesson of mathematics
+1089 / 1258
+
+
+573
+Polar ones
+288 / 499
+
+
+574
+Buns
+342 / 602
+
+
+575
+Sequence (RU)
+960 / 1032
+
+
+576
+Office (RU)
+514 / 592
+
+
+577
+Book
+419 / 526
+
+
+578
+Cards in the subway (RU)
+22 / 32
+
+
+579
+Стройка-2
+0 / 17
+
+
+580
+EGE (RU)
+4 / 20
+
+
+581
+Evacuation (RU)
+27 / 40
+
+
+582
+Sequence 2
+20 / 37
+
+
+583
+Airplane (RU)
+161 / 580
+
+
+584
+The avant-garde architecture (RU)
+8 / 17
+
+
+585
+Electronic display (RU)
+22 / 38
+
+
+586
+Pouring (RU)
+34 / 52
+
+
+587
+Chernobyl’ Eagle on a Roof
+112 / 217
+
+
+588
+Geme
+924 / 1126
+
+
+589
+A-function from a string
+233 / 276
+
+
+590
+Цирковое шоу
+10 / 15
+
+
+591
+Pattern (RU)
+10 / 18
+
+
+592
+Преобразование массивов
+35 / 54
+
+
+593
+Шахматная модель
+555 / 616
+
+
+594
+Текстовая статистика
+175 / 231
+
+
+595
+Новый Лабиринт Амбера
+525 / 575
+
+
+596
+Торговые сделки в Амбере
+195 / 206
+
+
+597
+Забавная игра
+276 / 324
+
+
+600
+Адронные коллайдеры
+2 / 16
+
+
+601
+Space Invaders
+429 / 519
+
+
+603
+The following terms in the partition
+60 / 97
+
+
+605
+Красивая таблица результатов
+292 / 324
+
+
+606
+Табло
+472 / 518
+
+
+607
+Game
+8 / 42
+
+
+608
+Guitar Hero
+52 / 92
+
+
+609
+Water
+1108 / 1617
+
+
+610
+Ancient manuscripts
+747 / 1358
+
+
+611
+Number systems
+24 / 56
+
+
+612
+Data transfering
+139 / 234
+
+
+613
+New illusion
+155 / 207
+
+
+614
+Buying fruits
+98 / 230
+
+
+615
+Lazer (RU)
+39 / 52
+
+
+616
+Radars (RU)
+64 / 90
+
+
+617
+Lotto (RU)
+91 / 148
+
+
+618
+Queen (RU)
+37 / 45
+
+
+619
+Beads (RU)
+37 / 53
+
+
+620
+Ход конём
+310 / 545
+
+
+621
+Palindrom2 (RU)
+103 / 201
+
+
+622
+Ones
+4636 / 4986
+
+
+623
+CD (RU)
+53 / 79
+
+
+624
+DVD (RU)
+2 / 11
+
+
+625
+Distance between the vertices
+604 / 772
+
+
+626
+Hard Test
+97 / 107
+
+
+627
+Unloved digits
+62 / 97
+
+
+628
+Dominoes
+141 / 183
+
+
+629
+Ships
+4 / 11
+
+
+630
+Anti-prime Sequences
+57 / 60
+
+
+631
+Mondriaan`s Dream
+85 / 95
+
+
+632
+Balanced Food
+3 / 4
+
+633
+Tic-tac-toe (RU)
+17 / 28
+
+
+634
+Вклад "Антикризисный"
+91 / 98
+
+
+635
+Созвездия
+5 / 10
+
+
+636
+Битоническая подпоследовательность
+11 / 18
+
+
+637
+Bone for the Sharik
+253 / 312
+
+
+638
+Indivisibility of binomial coefficients
+8 / 12
+
+
+639
+Irrational pairwise distances
+19 / 38
+
+
+640
+Minimaximal matching
+21 / 31
+
+
+641
+Number of quadratic residues
+8 / 11
+
+
+642
+Two snails
+2 / 9
+
+
+643
+Triangular Room
+7 / 14
+
+
+644
+S-Grundy game
+3 / 8
+
+
+645
+Get equal
+1 / 8
+
+
+646
+Jumps on strip
+3 / 18
+
+
+647
+Product of coprimes
+28 / 116
+
+
+648
+Divisibility of binomial coefficients
+4 / 6
+
+
+649
+Factorial and fourth degree
+1 / 7
+
+
+650
+Sum of two squares
+15 / 52
+
+
+651
+Shehrzad
+23 / 89
+
+
+652
+Pairwise different distances
+6 / 15
+
+
+653
+The triangle
+2467 / 3148
+
+
+654
+Морковные сны
+156 / 188
+
+
+655
+The segments
+75 / 129
+
+
+656
+Игра умножения
+563 / 898
+
+
+657
+Playing with coins
+231 / 349
+
+
+658
+Game strike out
+98 / 156
+
+
+659
+Tree Games
+100 / 125
+
+
+660
+Intelligent game Prostokvashino (RU)
+168 / 195
+
+
+661
+Details (RU)
+142 / 185
+
+
+662
+Tax (RU)
+318 / 400
+
+
+663
+Game (RU)
+87 / 95
+
+
+664
+Building schools (RU)
+123 / 181
+
+
+665
+Wallpapering (RU)
+1 / 3
+
+
+666
+Triangle and point
+1264 / 1824
+
+
+667
+Circle and triangle (RU)
+39 / 127
+
+
+668
+Buses and airplanes
+23 / 74
+
+
+669
+Черепаха
+31 / 95
+
+
+670
+Поиск палиндромов
+237 / 295
+
+
+671
+Капризные дети
+13 / 47
+
+
+672
+Квадроквадратуры
+24 / 56
+
+
+673
+Kingdom
+14 / 61
+
+
+674
+Weather conditions
+97 / 151
+
+
+675
+Shifted match
+16 / 43
+
+
+676
+Vectors
+39 / 62
+
+
+677
+Chocolate bars
+42 / 60
+
+
+678
+Employees
+81 / 123
+
+
+679
+Robot
+25 / 45
+
+
+680
+Hall Round Table
+34 / 54
+
+
+681
+Fibonacci Numbers
+46 / 196
+
+
+682
+Sum on a segment
+997 / 1375
+
+
+683
+Partial matrix sum
+1463 / 1632
+
+
+684
+Sum in a matrix
+495 / 646
+
+
+685
+Sum on parallelepiped
+128 / 199
+
+
+686
+Next
+450 / 553
+
+
+687
+К-th maximum
+444 / 579
+
+
+688
+To the beginning of the row!
+338 / 417
+
+
+689
+Swaper
+207 / 288
+
+
+690
+Эх, дороги...
+123 / 180
+
+
+691
+Sparse Tables
+506 / 620
+
+
+692
+К-мерная частичная сумма
+7 / 13
+
+
+693
+Minimum in the Stack
+1530 / 1807
+
+
+694
+Minimum in the Queue
+648 / 954
+
+
+695
+Range Variation Query
+839 / 955
+
+
+696
+Automatic Cash Terminal
+117 / 237
+
+
+697
+Box
+833 / 899
+
+
+698
+Weird sort
+11 / 22
+
+
+699
+Bowling
+30 / 37
+
+
+700
+Exam
+2 / 10
+
+
+701
+Platforms
+22 / 30
+
+
+702
+The Very Greatest Common Divisor
+14 / 38
+
+
+703
+Hamster 2
+7 / 11
+
+
+704
+Factorials
+226 / 285
+
+
+705
+Zero
+49 / 65
+
+
+706
+Most range circle (RU)
+15 / 29
+
+
+707
+Puddles (RU)
+2 / 13
+
+
+708
+Do not smoke! (RU)
+39 / 65
+
+
+709
+Length of association (RU)
+75 / 100
+
+
+710
+External boxes (RU)
+172 / 207
+
+
+711
+Quadrilateral (RU)
+5 / 11
+
+
+712
+Radio Transmitters (RU)
+5 / 9
+
+
+713
+Parking (RU)
+43 / 61
+
+
+714
+Intersection of segments (RU)
+66 / 172
+
+
+715
+Down the rabbit hole (RU)
+16 / 19
+
+
+716
+White Rabbit (RU)
+5 / 7
+
+
+717
+Blue caterpillar gives advice (RU)
+21 / 39
+
+
+718
+Mad Tea Party (RU)
+10 / 13
+
+
+719
+Mad Tea Party II
+5 / 14
+
+
+720
+Duchess (RU)
+6 / 15
+
+
+721
+Royal Croquet (RU)
+10 / 12
+
+
+722
+Royal Croquet 2
+6 / 7
+
+
+723
+Marine quadrille (RU)
+4 / 4
+
+
+724
+Who stole the pretzels? (RU)
+9 / 19
+
+
+725
+AntiGrey
+35 / 43
+
+
+726
+Again A+B
+13 / 23
+
+
+727
+Area
+2 / 3
+
+
+728
+Desert
+14 / 16
+
+
+729
+More all
+19 / 33
+
+
+730
+What prefix?
+15 / 18
+
+
+731
+From the prefix to infix
+36 / 72
+
+
+732
+Equivalence
+1 / 7
+
+
+733
+Ternary logic
+11 / 13
+
+
+734
+Contact
+82 / 129
+
+
+735
+Power
+7 / 43
+
+
+736
+Bob (RU)
+7 / 16
+
+
+737
+Jumping (RU)
+1 / 10
+
+
+738
+Short track (RU)
+2 / 7
+
+
+739
+Freestyle (RU)
+45 / 55
+
+
+740
+Curling (RU)
+4 / 14
+
+
+741
+Ski Race (RU)
+1 / 5
+
+
+742
+Nordic Combined (RU)
+27 / 42
+
+
+743
+Snowboarding (RU)
+2 / 14
+
+
+744
+Figure skating (RU)
+30 / 57
+
+
+745
+Alpine Skiing (RU)
+8 / 9
+
+
+746
+Hockey (RU)
+7 / 10
+
+
+747
+Biathlon (RU)
+10 / 13
+
+
+748
+Skating
+0 / 2
+
+
+749
+Таймер
+108 / 123
+
+
+750
+Home by trains
+209 / 255
+
+
+751
+Treasure
+234 / 263
+
+
+752
+Ahoy, Pirates!
+319 / 418
+
+
+753
+Power
+58 / 124
+
+
+754
+Playing with chips
+29 / 31
+
+
+756
+Villages
+82 / 102
+
+
+757
+Mirrors
+3 / 5
+
+
+758
+Cry
+4 / 5
+
+759
+Robot
+4 / 4
+
+
+761
+Boa
+2 / 9
+
+
+762
+Determinant
+4 / 13
+
+
+763
+Оранжерея
+13 / 18
+
+
+764
+House
+697 / 791
+
+
+765
+Bike
+103 / 165
+
+
+766
+Сопротивление
+51 / 87
+
+
+767
+Ленточка
+4 / 21
+
+
+768
+Резервуар
+1 / 5
+
+
+769
+Rectangle
+1564 / 1742
+
+
+770
+Peg Game
+33 / 45
+
+
+771
+Fibonacci Sequence
+427 / 914
+
+
+772
+Bard
+40 / 48
+
+
+773
+Numbers
+558 / 631
+
+
+774
+Cake
+4142 / 4987
+
+
+775
+Preparation
+610 / 699
+
+
+776
+Roads
+960 / 1043
+
+
+777
+Game
+15 / 36
+
+
+778
+Line
+48 / 75
+
+
+779
+Message in the Enemy Territory
+46 / 50
+
+
+780
+Rational Billiard
+33 / 37
+
+
+781
+Best Coalitions
+42 / 46
+
+
+782
+Informants
+38 / 42
+
+
+783
+Look-and-Say sequences
+33 / 45
+
+
+784
+Burger Time?
+76 / 90
+
+785
+Triangular Grid
+30 / 33
+
+
+786
+GrayInc
+30 / 31
+
+
+787
+Langton`s Ant
+29 / 31
+
+
+788
+Chinese Ink
+28 / 31
+
+
+789
+John
+43 / 51
+
+
+790
+Double Queue
+964 / 1058
+
+
+791
+`JBC`
+29 / 30
+
+
+792
+Loan Scheduling
+33 / 35
+
+
+793
+Showstopper
+29 / 33
+
+
+794
+Highway
+20 / 39
+
+
+795
+Computers
+36 / 41
+
+
+796
+The Stable Marriage Problem
+391 / 430
+
+
+797
+Arne Saknussemm
+28 / 38
+
+
+798
+Platforms
+1426 / 1714
+
+
+799
+Buying tickets
+1796 / 1977
+
+
+800
+Easy MaxSum
+86 / 134
+
+
+801
+Старые песни о главном - 3
+62 / 79
+
+
+802
+Разбиенеие на две группы
+11 / 20
+
+
+803
+Абзац
+49 / 142
+
+
+804
+Пасьянс
+10 / 14
+
+
+805
+Normal MaxSum
+33 / 51
+
+
+806
+Platforms - 3
+609 / 876
+
+
+807
+Сомневающееся начальство
+5 / 20
+
+
+808
+Путь через горы
+7 / 18
+
+
+809
+Squares and Rounds
+206 / 229
+
+810
+Старые песни о главном - 4
+34 / 49
+
+
+812
+Русское лото
+14 / 18
+
+
+814
+Путь через горы 2
+0 / 5
+
+
+815
+Шахматы
+0 / 0
+
+
+816
+Перегоны
+2 / 12
+
+
+817
+Сломанный калькулятор
+33 / 46
+
+
+818
+Валютные махинации
+26 / 33
+
+
+819
+Двухтуровая олимпиада
+3 / 10
+
+
+820
+Формула-1
+0 / 2
+
+
+821
+Кузнечик
+4 / 7
+
+
+822
+Unpack the string
+231 / 294
+
+
+823
+Склад
+1 / 2
+
+
+824
+Бензин
+28 / 43
+
+
+825
+Игра
+2 / 28
+
+
+826
+Борозды
+1 / 9
+
+
+827
+Простые факториалы
+27 / 47
+
+
+828
+Тир
+0 / 2
+
+
+829
+Телевышка
+279 / 311
+
+
+830
+Prime numbers
+2416 / 3445
+
+
+831
+Expression
+384 / 553
+
+
+832
+Increasing subsequence
+596 / 920
+
+
+833
+The triangle and the point
+823 / 1008
+
+
+834
+Power
+884 / 1106
+
+
+835
+Poker
+789 / 957
+
+
+836
+Prime numbers 2
+1070 / 1783
+
+837
+Permutations
+691 / 765
+
+
+838
+Route
+1232 / 1512
+
+
+839
+Segments intersection
+808 / 1305
+
+
+840
+Long sum
+1232 / 1457
+
+
+841
+Spiral
+1342 / 1489
+
+
+842
+The prime factors
+1758 / 2445
+
+
+843
+Permutation of letters
+490 / 654
+
+
+844
+Moneybox
+159 / 217
+
+
+845
+The card and envelope
+233 / 479
+
+
+846
+Long product
+807 / 898
+
+
+847
+Snake
+361 / 441
+
+
+848
+Perfect numbers
+374 / 554
+
+
+849
+Decomposition into terms
+227 / 270
+
+
+850
+Gangsters
+144 / 163
+
+
+851
+The area of a polygon
+1093 / 1324
+
+
+852
+Long division on a short number
+483 / 594
+
+
+853
+Sereja and Array
+616 / 774
+
+
+854
+Friendly numbers
+210 / 290
+
+
+855
+Brackets (2)
+185 / 252
+
+
+856
+Route 2
+297 / 400
+
+
+857
+Convex hull
+468 / 567
+
+
+858
+Birthday
+211 / 300
+
+
+859
+Amounts
+128 / 162
+
+
+860
+The game of "Date"
+129 / 196
+
+
+861
+Matrix Summation
+141 / 181
+
+862
+Message
+79 / 123
+
+
+863
+Line and squares
+63 / 78
+
+
+864
+SMS
+36 / 44
+
+
+865
+Arc on the sphere
+58 / 71
+
+
+866
+Computer Dialogue
+32 / 39
+
+
+867
+Throwing dice
+57 / 87
+
+
+868
+Watershed
+38 / 46
+
+
+869
+Anti-QuickSort
+153 / 218
+
+
+870
+Fibostrings
+42 / 87
+
+
+871
+The boundary of the polygon
+157 / 180
+
+
+872
+Wires
+480 / 535
+
+
+873
+Palindromes
+336 / 413
+
+
+874
+Circular area
+60 / 89
+
+
+875
+Homer Simpson
+159 / 273
+
+
+876
+Garland
+47 / 54
+
+
+877
+Puzzle multiplication
+194 / 237
+
+
+878
+Point in polygon
+109 / 151
+
+
+879
+Plumbing
+22 / 32
+
+
+880
+Center of gravity
+41 / 93
+
+
+881
+Д-44
+24 / 37
+
+
+882
+Пирамиды
+36 / 56
+
+
+883
+Поле для крикета
+3 / 29
+
+
+884
+Area of a triangle
+30 / 73
+
+
+885
+Формирование поезда
+26 / 42
+
+
+886
+Стена
+46 / 70
+
+887
+Семечки
+20 / 27
+
+
+888
+Игра с калькулятором
+64 / 89
+
+
+889
+Cylinder
+41 / 67
+
+
+890
+The Hunting
+0 / 22
+
+
+891
+Покупка цветов
+289 / 436
+
+
+892
+Пицца
+94 / 127
+
+
+893
+Решение задач
+128 / 184
+
+
+894
+Стильная одежда
+13 / 37
+
+
+895
+Подтасовка результатов
+1 / 2
+
+
+896
+Прямоугольные треугольники
+8 / 47
+
+
+897
+Словарь
+95 / 141
+
+
+898
+Пешки
+8 / 17
+
+
+899
+Трамвай
+1 / 4
+
+
+900
+Путешествия в реальности
+7 / 21
+
+
+901
+Number of operations
+7208 / 8222
+
+
+902
+The level of educational achievements
+17213 / 18528
+
+
+903
+First or last?
+16344 / 17911
+
+
+904
+Increase by 2
+12147 / 13978
+
+
+905
+What type of triangle?
+14771 / 16316
+
+
+906
+Product of digits
+19695 / 20684
+
+
+907
+The first is not greater for 2,5
+7521 / 8688
+
+
+908
+Those that are divisible by 6
+8508 / 9728
+
+
+909
+Number of words
+7320 / 8085
+
+
+910
+The arithmetic mean of positive
+9464 / 10802
+
+
+911
+Quadratic equation
+6248 / 9068
+
+912
+Number of sentences
+3908 / 5263
+
+
+913
+Use sub-program
+3768 / 4169
+
+
+914
+Maximum of absolute values
+8167 / 9373
+
+
+915
+Rectangular or not?
+10029 / 11289
+
+
+916
+Interesting Product
+2818 / 3473
+
+
+917
+Twice the minimum
+8107 / 8862
+
+
+918
+Which quarter?
+9880 / 11636
+
+
+919
+Number by 3
+6734 / 7429
+
+
+920
+Use the function
+5452 / 6027
+
+
+921
+Negative elements
+8996 / 9646
+
+
+922
+Shift the elements to the right
+8319 / 8986
+
+
+923
+Season
+15508 / 16768
+
+
+924
+Ring
+6551 / 7538
+
+
+925
+Perimeter and area of triangle
+6036 / 6665
+
+
+926
+Heron
+6700 / 7571
+
+
+927
+Number of toys
+7326 / 8036
+
+
+928
+The sum of the largest and the smallest
+10207 / 10972
+
+
+929
+Parallelogram
+6300 / 7719
+
+
+930
+Mobile Phone
+3874 / 4959
+
+
+931
+The ratio of product to the sum
+6606 / 7709
+
+
+932
+The height of triangle
+3726 / 4135
+
+
+933
+The sum of digits of a two-digit number
+8492 / 10572
+
+
+934
+The heights of the triangle
+4739 / 5180
+
+
+935
+Decomposition of three digit number
+12011 / 13609
+
+
+936
+Cramer's Formula
+2156 / 2706
+
+937
+Product of Array Except Self
+4037 / 5645
+
+
+938
+The point on the interval
+2800 / 3152
+
+
+939
+The square of sum
+11846 / 12214
+
+
+940
+Majority Element
+3443 / 4029
+
+
+941
+Difference
+5581 / 6782
+
+
+942
+Diagonals
+3316 / 3666
+
+
+943
+Digits permutation in 3-digit integer
+9386 / 10780
+
+
+944
+The area of a pyramid
+1452 / 1609
+
+
+945
+Without the middle
+10208 / 10446
+
+
+946
+The area of quadrilateral
+1867 / 2791
+
+
+947
+Обратный порядок
+3519 / 3967
+
+
+948
+Area and volume of the pyramid
+1530 / 1716
+
+
+949
+Two digits from four digits
+9320 / 10282
+
+
+950
+Four Square
+918 / 1192
+
+
+951
+Обмен
+4447 / 4567
+
+
+952
+The surface area of the pyramid
+1107 / 1225
+
+
+953
+Remainder
+6230 / 6624
+
+
+954
+The surface area of the pyramid 2
+766 / 874
+
+
+955
+The square of sum
+6211 / 6435
+
+
+956
+The surface area of the pyramid 3
+696 / 758
+
+
+957
+Square root
+5241 / 5502
+
+
+958
+Surface area of pyramid 4
+418 / 494
+
+
+959
+Sum of digits
+7163 / 7370
+
+
+960
+The surface area of the cone
+780 / 888
+
+
+961
+Четырехцифровое без средних
+3719 / 3813
+
+962
+The biggest party of the quadrilateral
+1273 / 1522
+
+
+963
+Permutation of the words
+1969 / 2143
+
+
+964
+The incidence matrix
+635 / 809
+
+
+965
+Polynomial
+278 / 324
+
+
+966
+Мутация
+2 / 29
+
+
+967
+Музей
+10 / 22
+
+
+968
+Расстояние между числами
+12 / 45
+
+
+969
+Кризис
+18 / 36
+
+
+970
+Пары точек
+1 / 25
+
+
+971
+Josephus problem
+1386 / 1529
+
+
+972
+Sorting time
+4604 / 4883
+
+
+973
+Maximum sum on a tree
+1353 / 2063
+
+
+974
+Floyd - 1
+1922 / 2098
+
+
+975
+Floyd
+1846 / 2140
+
+
+976
+Floyd - existence
+616 / 934
+
+
+977
+Is it a Tree?
+2417 / 2863
+
+
+978
+Get a tree
+2459 / 2705
+
+
+979
+Frame-workout 1
+846 / 918
+
+
+980
+Frame-workout 2
+409 / 448
+
+
+981
+Minimum spanning tree
+1110 / 1233
+
+
+982
+Connectivity
+2845 / 3212
+
+
+983
+Tree Edges Coloring
+248 / 356
+
+
+984
+Number of cycles
+53 / 170
+
+
+985
+Scheduled Checking
+2 / 21
+
+
+986
+Picking Numbers
+1417 / 1725
+
+987
+Nails
+1885 / 2215
+
+
+988
+Subsequence
+969 / 1214
+
+
+989
+Ladders
+646 / 912
+
+
+990
+12345
+9978 / 10339
+
+
+991
+Шаблон и слово
+206 / 309
+
+
+992
+Cities and roads
+3769 / 3944
+
+
+993
+Traffic lights
+2717 / 2850
+
+
+994
+Coloured rain
+2691 / 2846
+
+
+995
+Irony
+515 / 600
+
+
+996
+Path
+716 / 877
+
+
+997
+One knight
+935 / 1076
+
+
+998
+Табличка
+349 / 462
+
+
+999
+Два коня
+313 / 405
+
+
+1000
+a + b Problem
+6055 / 8767
+
+
+1001
+A + B in the binary system
+1260 / 1848
+
+
+1002
+Fraction
+27 / 58
+
+
+1003
+Nikifor 2
+71 / 107
+
+
+1004
+Забавная игра
+484 / 564
+
+
+1005
+Matches for children are not toys!
+913 / 1175
+
+
+1006
+Simple arithmetic
+176 / 212
+
+
+1007
+The Stern-Brocot Number System
+556 / 587
+
+
+1008
+Number systems
+340 / 551
+
+
+1009
+2D-Nim
+140 / 151
+
+
+1010
+The equality
+29 / 45
+
+
+1011
+Nim
+101 / 149
+
+1012
+Coins
+95 / 263
+
+
+1013
+Factorial
+244 / 364
+
+
+1014
+Bones for Sharik 2
+1 / 7
+
+
+1015
+S-Nim
+29 / 40
+
+
+1016
+Octal Fractions
+58 / 98
+
+
+1017
+Fractional arithmetic
+59 / 98
+
+
+1018
+Expanding Fractions
+143 / 159
+
+
+1019
+Dead Fraction
+11 / 36
+
+
+1021
+Rational Numbers from Repeating Fractions
+35 / 40
+
+
+1022
+Cantor Fractions
+159 / 189
+
+
+1023
+Continued Fractions
+237 / 281
+
+
+1024
+Hello World!
+11155 / 11708
+
+
+1025
+Brackets
+54 / 157
+
+
+1026
+Карточки
+4 / 23
+
+
+1027
+Fractions Again?!
+109 / 124
+
+
+1028
+Continuous Fractions
+10 / 21
+
+
+1030
+Fractions to Decimals
+36 / 51
+
+
+1031
+Ordered Fractions
+310 / 351
+
+
+1033
+Cake from Tolya
+892 / 1076
+
+
+1034
+Fractional tricks
+194 / 254
+
+
+1035
+Rectangle and the beam
+0 / 15
+
+
+1036
+Path to the parallelepiped
+8 / 39
+
+
+1037
+M-gon
+5 / 19
+
+
+1038
+Entire
+100 / 144
+
+
+1039
+Big jumps
+6 / 10
+
+
+1040
+Minimal Circle
+2 / 86
+
+
+1041
+Triangle
+0 / 47
+
+
+1042
+Rope
+274 / 326
+
+
+1043
+Geometry Paradox
+430 / 566
+
+
+1044
+Convex area
+6 / 13
+
+
+1045
+The Circumference of the Circle
+535 / 634
+
+
+1046
+Diplomatic License
+75 / 84
+
+
+1047
+Polygon Programming with Ease
+32 / 37
+
+
+1048
+Bridge Across Islands
+32 / 62
+
+
+1049
+Right-angled Triangle
+21 / 94
+
+
+1050
+Cautious judge
+0 / 4
+
+
+1051
+Owl`s Problem
+115 / 143
+
+
+1052
+Mystery pattern
+80 / 91
+
+
+1053
+Stained-glass window
+94 / 113
+
+
+1054
+A Lucky number of Tiger`s
+63 / 75
+
+
+1055
+Numerical spiral
+139 / 286
+
+
+1056
+Trams
+44 / 84
+
+
+1057
+Острова
+21 / 45
+
+
+1058
+Avoid The Lakes
+349 / 395
+
+
+1059
+Fire Station
+13 / 36
+
+
+1060
+Lines
+1275 / 1498
+
+
+1061
+Three states
+645 / 935
+
+
+1062
+Lines (2)
+672 / 816
+
+
+1063
+Cell removal
+1622 / 1777
+
+
+1064
+The way a Knight
+615 / 721
+
+1065
+Garden beds
+714 / 768
+
+
+1066
+The nearest number
+55 / 112
+
+
+1067
+Rectangular division
+25 / 43
+
+
+1068
+Path caver
+105 / 137
+
+
+1069
+Holey fabric
+38 / 67
+
+
+1070
+Fill the line
+735 / 1076
+
+
+1071
+Not representable number
+704 / 816
+
+
+1072
+Chemical reactions
+82 / 95
+
+
+1073
+Instant Complexity
+73 / 100
+
+
+1074
+Электронная таблица
+21 / 29
+
+
+1075
+Multiplying polynomials
+183 / 231
+
+
+1076
+The system of linear equations
+6 / 18
+
+
+1077
+Java vs C++
+354 / 553
+
+
+1078
+Power Strings
+378 / 532
+
+
+1079
+Removing the letters
+479 / 555
+
+
+1080
+Anagrammatic Distance
+430 / 486
+
+
+1081
+GATTACA
+47 / 62
+
+
+1082
+Mix and Build
+15 / 28
+
+
+1083
+Sequence
+518 / 850
+
+
+1084
+Sequence (2)
+155 / 247
+
+
+1085
+Dual lattice
+29 / 38
+
+
+1086
+Fibonacci sequence
+39 / 112
+
+
+1087
+Brackets sequence
+164 / 248
+
+
+1088
+Product sum
+28 / 35
+
+
+1089
+Марковский цикл
+19 / 28
+
+1090
+Folding
+71 / 82
+
+
+1091
+Cow Sorting
+25 / 119
+
+
+1092
+Left Mouse Button
+34 / 49
+
+
+1093
+Exact Symmetry
+8 / 13
+
+
+1094
+Bubble Sort
+20 / 81
+
+
+1095
+Bone Sort
+10 / 27
+
+
+1096
+A Very Simple Problem
+11 / 110
+
+
+1097
+Nim
+22 / 28
+
+
+1098
+Queen move!
+359 / 429
+
+
+1099
+The talking Galcian
+86 / 130
+
+
+1100
+Полезная площадь
+5 / 31
+
+
+1101
+Numbering path
+310 / 350
+
+
+1102
+Sticks Problem
+202 / 323
+
+
+1103
+Tour Counting
+211 / 244
+
+
+1104
+Dominos
+500 / 759
+
+
+1105
+Hello, Pie!
+200 / 239
+
+
+1106
+Dancing Party
+116 / 158
+
+
+1107
+ACM Contest and Blackout
+142 / 217
+
+
+1108
+Wormholes
+584 / 649
+
+
+1109
+106 miles to Chicago
+435 / 497
+
+
+1110
+The Eagle
+112 / 148
+
+
+1111
+Ackermann Function
+663 / 1075
+
+
+1112
+Queen, Rook and Knight
+83 / 128
+
+
+1113
+Castle
+300 / 361
+
+
+1114
+Character designs on fabric
+108 / 157
+
+1115
+Area Ratio
+383 / 590
+
+
+1116
+Product of digits
+150 / 288
+
+
+1117
+Queen, rook and bishop
+102 / 135
+
+
+1118
+Watermelons
+4561 / 5559
+
+
+1119
+Pyramid of the symbols
+2364 / 2608
+
+
+1120
+Quadrilateral
+509 / 617
+
+
+1121
+A^B mod C
+487 / 1024
+
+
+1122
+Rook, knight and bishop
+103 / 132
+
+
+1123
+Lucky Number
+498 / 651
+
+
+1124
+Alphabetic graffiti
+2451 / 2596
+
+
+1125
+The Angle
+583 / 843
+
+
+1126
+Count primes
+119 / 476
+
+
+1127
+Big Number
+303 / 382
+
+
+1128
+Longge`s problem
+476 / 663
+
+
+1129
+Revision of the store
+53 / 79
+
+
+1130
+Graded lexicographic order
+54 / 87
+
+
+1131
+Abacaba
+4 / 6
+
+
+1132
+100 Великих Украинцев
+6 / 8
+
+
+1133
+Отрезок и квадраты
+3 / 6
+
+
+1134
+Обмен между тремя героями
+9 / 15
+
+
+1135
+Упражнение по арифметике
+2 / 10
+
+
+1136
+Ремейки
+106 / 154
+
+
+1137
+Determinant
+9 / 81
+
+
+1138
+Сумма произведений
+7 / 13
+
+
+1139
+Сумма различных делителей
+5 / 14
+
+1140
+Степени перестановок
+2 / 3
+
+
+1141
+Median of numbers
+861 / 1041
+
+
+1142
+Division by zero or ...
+2069 / 2651
+
+
+1143
+Division by zero 2 or ...
+470 / 938
+
+
+1144
+Sort Machine
+318 / 481
+
+
+1145
+UnfairDivision
+53 / 84
+
+
+1146
+GCD
+2053 / 2319
+
+
+1147
+GCD Extreme
+205 / 441
+
+
+1148
+GCD LCM
+550 / 670
+
+
+1149
+Sandwiches
+126 / 147
+
+
+1150
+K-th Number (Easy)
+202 / 218
+
+
+1151
+Treasure Hunter
+893 / 1147
+
+
+1154
+Circle of choirs
+2821 / 3703
+
+
+1155
+Euclid Problem
+925 / 1084
+
+
+1156
+Fermat vs. Pythagoras
+14 / 26
+
+
+1157
+The Cat in the Hat
+10 / 21
+
+
+1158
+The Luckiest number
+8 / 38
+
+
+1159
+Birthday
+916 / 1053
+
+
+1160
+Warm-up
+408 / 439
+
+
+1161
+Теннис
+3 / 7
+
+
+1162
+Звонки
+40 / 46
+
+
+1163
+Шахматная головоломка
+1 / 4
+
+
+1164
+Сумочки
+45 / 50
+
+
+1165
+Крыша
+17 / 19
+
+
+1166
+Телевизор
+8 / 13
+
+1167
+Игра
+9 / 14
+
+
+1168
+Гитара
+33 / 38
+
+
+1169
+Кролики
+27 / 54
+
+
+1170
+Делители
+82 / 105
+
+
+1171
+Тестирование
+5 / 10
+
+
+1172
+Acceleration
+3 / 11
+
+
+1173
+Hierarchical employee structure
+7 / 18
+
+
+1174
+Weighted points
+11 / 22
+
+
+1175
+Monsters
+1 / 5
+
+
+1176
+The series of Functions
+1 / 2
+
+
+1177
+The Function
+9 / 38
+
+
+1178
+Instability of a Tree
+5 / 10
+
+
+1179
+Substrings
+64 / 77
+
+
+1180
+Game on a Tree
+39 / 69
+
+
+1181
+Mint
+363 / 433
+
+
+1182
+Simple division
+684 / 748
+
+
+1183
+Boxes
+655 / 837
+
+
+1184
+Hyper-drive
+230 / 256
+
+
+1185
+Sum of numbers in a tree
+159 / 213
+
+
+1186
+Arithmetically Challenged
+18 / 21
+
+
+1187
+Cover Up
+9 / 23
+
+
+1188
+Decompressing in a GIF
+31 / 33
+
+
+1189
+Flipper
+27 / 28
+
+
+1190
+The Flood
+31 / 34
+
+
+1191
+Here`s a Product Which Will Make You Tensor
+6 / 7
+
+1192
+Trip the Lights Fantastic
+8 / 9
+
+
+1193
+Windows
+10 / 11
+
+
+1194
+Letter Cookies
+102 / 119
+
+
+1195
+Bicycle Puzzle
+3 / 6
+
+
+1196
+Geometry Darts
+5 / 6
+
+
+1197
+Box Betting
+3 / 4
+
+
+1198
+Communication Channels
+15 / 16
+
+
+1199
+Train Tickets
+1 / 4
+
+
+1200
+Counting Sheep (Easy)
+101 / 112
+
+
+1201
+Rubiks Cube
+1 / 5
+
+
+1202
+Marble Madness
+4 / 6
+
+
+1203
+Robberies
+5 / 11
+
+
+1204
+Robot Encryption
+0 / 12
+
+
+1205
+Power of Cryptography
+1171 / 1552
+
+
+1206
+f91
+1989 / 2216
+
+
+1207
+sqrt log sin
+852 / 1032
+
+
+1208
+Perfect P-th Powers
+220 / 295
+
+
+1209
+Function with factorials
+642 / 926
+
+
+1210
+Very Easy!!!
+2801 / 4110
+
+
+1211
+Infinite Sequence
+1246 / 1445
+
+
+1212
+Infinite Sequence - 2
+653 / 878
+
+
+1213
+Massive Numbers
+1726 / 2044
+
+
+1214
+Multifactorial
+783 / 1126
+
+
+1215
+Rock, Paper, or Scissors?
+1086 / 1189
+
+
+1216
+Missile Command
+0 / 4
+
+1217
+Palindromic Primes Category in Jeopardy!
+1 / 3
+
+
+1218
+Pebbles
+26 / 29
+
+
+1219
+Rubik`s Cube
+1 / 4
+
+
+1220
+Geek Challenge [SKRZAT] (Base Minus Two)
+75 / 82
+
+
+1221
+Frogger
+1 / 5
+
+
+1222
+"Bubble Gum, Bubble Gum..."
+17 / 21
+
+
+1223
+Games R Us
+5 / 7
+
+
+1224
+Cover Up
+1 / 4
+
+
+1225
+Black Box
+494 / 677
+
+
+1226
+Foreign Exchange
+1197 / 1501
+
+
+1227
+Andys first dictionary
+1016 / 1294
+
+
+1228
+Add All
+1401 / 1838
+
+
+1229
+GCD Extreme II
+726 / 969
+
+
+1230
+GCD Super-Extreme
+75 / 151
+
+
+1231
+Lucky Controller
+3 / 8
+
+
+1232
+Bukazoids
+28 / 57
+
+
+1233
+Collisions
+8 / 10
+
+
+1234
+Dancers
+29 / 46
+
+
+1235
+Embassy
+10 / 17
+
+
+1236
+Dictionary of Obscene Words
+20 / 47
+
+
+1237
+Greatest Product
+101 / 138
+
+
+1238
+Fractal Cake
+6 / 8
+
+
+1239
+Hexaroman Numbers
+5 / 6
+
+
+1240
+Beam in Tunnel
+2 / 6
+
+
+1241
+Key
+11 / 30
+
+1242
+Game on Chessboard
+0 / 4
+
+
+1243
+Least Common Multiple
+1142 / 1323
+
+
+1244
+GCD and LCM
+654 / 853
+
+
+1245
+Island of Misfortune
+65 / 158
+
+
+1246
+Minimum Sum LCM
+473 / 608
+
+
+1247
+LCM Cardinality
+135 / 165
+
+
+1248
+Bridged Marble Rings
+3 / 8
+
+
+1249
+The first digit of the power
+649 / 930
+
+
+1250
+Fibonacci Problem Again
+87 / 172
+
+
+1251
+Trick or Treat
+6 / 17
+
+
+1252
+Working at the Restaurant
+10 / 11
+
+
+1253
+Lights
+6 / 8
+
+
+1254
+Darts
+6 / 11
+
+
+1255
+Genetics
+4 / 4
+
+
+1256
+Haunted Graveyard
+9 / 13
+
+
+1257
+Slalom
+7 / 8
+
+
+1258
+Routing
+4 / 6
+
+
+1259
+Happy Telephones
+12 / 16
+
+
+1260
+Stammering Aliens
+11 / 16
+
+
+1261
+Football products
+24 / 79
+
+
+1262
+Футболоугольники
+2 / 9
+
+
+1263
+The Easy Football Problem
+173 / 321
+
+
+1264
+Приглашение на свадьбу
+9 / 18
+
+
+1265
+Egypt
+1937 / 2413
+
+
+1266
+CD
+339 / 443
+
+1267
+Knight Moves!
+101 / 109
+
+
+1268
+Efficient production
+23 / 47
+
+
+1269
+Fractions
+4 / 10
+
+
+1270
+Prime Sums
+38 / 53
+
+
+1271
+Seinfeld
+47 / 53
+
+
+1272
+Tiles of Tetris, NOT!
+67 / 80
+
+
+1273
+Not so Flat After All
+32 / 35
+
+
+1274
+Probability One
+135 / 139
+
+
+1275
+Hop - Don`t Walk
+27 / 30
+
+
+1276
+Air Strike
+27 / 27
+
+
+1277
+Stock Chase
+29 / 34
+
+
+1278
+Land Division
+18 / 24
+
+
+1279
+Kind of a Blur
+27 / 30
+
+
+1280
+National Treasures
+24 / 26
+
+
+1281
+Simple task for Sharik
+1179 / 1353
+
+
+1282
+Simple task Pechkin
+165 / 191
+
+
+1283
+Banking reform
+662 / 765
+
+
+1284
+Honeycomb Walk
+58 / 83
+
+
+1285
+Goldbach Division
+80 / 115
+
+
+1286
+Tuck-shop
+8121 / 8433
+
+
+1287
+Tennis competitions
+2559 / 2945
+
+
+1288
+n-digit numbers
+886 / 1442
+
+
+1289
+Lunch
+3963 / 4432
+
+
+1290
+License plate
+722 / 1026
+
+
+1291
+Lucky number Masha
+22 / 115
+
+1292
+I want honey!
+3 / 14
+
+
+1293
+The average number of Masha
+236 / 294
+
+
+1294
+Weigh-cones
+122 / 148
+
+
+1295
+Twigs and bumps
+1 / 2
+
+
+1296
+Arithmetic Masha
+78 / 114
+
+
+1297
+Playing with knobs
+30 / 40
+
+
+1298
+Masha - chocolate, and Misha - bagel...
+4 / 26
+
+
+1299
+I want to honey, and more...
+6 / 26
+
+
+1300
+Only the branches...
+77 / 93
+
+
+1301
+LampsGrid
+55 / 69
+
+
+1302
+Almost Prime Numbers
+713 / 951
+
+
+1303
+Ultra-QuickSort
+571 / 775
+
+
+1304
+What is the Median?
+418 / 543
+
+
+1305
+Childrens Game
+840 / 998
+
+
+1306
+DNA Sorting
+768 / 867
+
+
+1307
+The largest border
+229 / 317
+
+
+1308
+The biggest border of the substring
+341 / 413
+
+
+1309
+Blocks of string
+250 / 307
+
+
+1310
+The largest block
+325 / 386
+
+
+1311
+Fibonacci String
+93 / 260
+
+
+1312
+Wardrobe
+5657 / 7177
+
+
+1313
+Almost palindromes
+4 / 24
+
+
+1314
+Декартово дерево
+20 / 30
+
+
+1315
+A + B
+253 / 285
+
+
+1316
+Equal balls
+1317
+Birthdays
+417 / 476
+
+
+1318
+Thick Coin
+195 / 221
+
+
+1319
+Duelists
+331 / 362
+
+
+1320
+Forest
+51 / 55
+
+
+1321
+Lucky Five
+91 / 105
+
+
+1322
+Matrix product
+87 / 209
+
+
+1323
+Triangles in the polygon
+140 / 176
+
+
+1324
+World Championship
+22 / 32
+
+
+1325
+Vas`kin track
+721 / 838
+
+
+1326
+Play hockey this...
+1827 / 2263
+
+
+1327
+Rooks on a chessboard
+1228 / 1602
+
+
+1328
+Drawings on a piece of paper in the box
+297 / 466
+
+
+1329
+Partition of the set
+10 / 34
+
+
+1330
+Tobo or not Tobo
+18 / 29
+
+
+1331
+Adding Sevens
+149 / 165
+
+
+1332
+Match Maker
+16 / 21
+
+
+1333
+Adding up Triangles
+23 / 29
+
+
+1334
+Relax! It’s just a game
+77 / 104
+
+
+1335
+Einbahnstrasse
+56 / 69
+
+
+1336
+Think I’ll Buy Me a Football Team
+23 / 27
+
+
+1337
+Musical Chairs
+31 / 40
+
+
+1338
+I Speak Whales
+2 / 6
+
+
+1339
+A Day at the Races
+23 / 30
+
+
+1340
+Diamond
+1238 / 1534
+
+
+1341
+LC-Display
+53 / 68
+
+1342
+Periodic Strings
+451 / 555
+
+
+1343
+Bad Substring
+1289 / 1413
+
+
+1344
+Personal files
+1589 / 1854
+
+
+1345
+Sports day for idlers
+141 / 160
+
+
+1346
+Конфетная лотерея
+471 / 485
+
+
+1347
+Делители
+57 / 154
+
+
+1348
+Covering
+24 / 39
+
+
+1349
+Сумма разнообразий
+5 / 14
+
+
+1350
+Дезоксирыбонуклеиновая кислота
+27 / 45
+
+
+1351
+The highest digits
+2285 / 2928
+
+
+1352
+The number of primes
+838 / 1054
+
+
+1353
+Segment in a coordinate system
+145 / 583
+
+
+1354
+The number of integers Mersenns
+327 / 421
+
+
+1355
+Number of N-digit numbers containing the digit 7
+725 / 974
+
+
+1356
+SMS voting
+204 / 349
+
+
+1357
+Zeros at the end of
+598 / 657
+
+
+1358
+How many Fibonacci numbers
+468 / 547
+
+
+1359
+Side of the square
+550 / 671
+
+
+1360
+Segment and a rectangle
+38 / 106
+
+
+1361
+Mathematical game
+118 / 208
+
+
+1362
+Axis of symmetry of the quadrilateral
+50 / 118
+
+
+1363
+Rectangles and nails
+195 / 252
+
+
+1364
+Magic square
+276 / 404
+
+
+1365
+Dijkstra Algorithm
+1977 / 2259
+
+
+1366
+Stock Exchange
+104 / 122
+
+1367
+Sky Code
+24 / 33
+
+
+1368
+Perfect Election
+24 / 27
+
+
+1369
+Lucky Cities
+8 / 21
+
+
+1370
+Build Your Home
+41 / 47
+
+
+1371
+Quick Answer
+114 / 167
+
+
+1372
+Lucky Numbers
+38 / 44
+
+
+1373
+GCD Determinant
+8 / 12
+
+
+1374
+Internet Service Providers
+14 / 21
+
+
+1375
+Base -2
+213 / 241
+
+
+1376
+The Bases Are Loaded
+137 / 192
+
+
+1377
+What Base Is This?
+95 / 195
+
+
+1378
+Fibonaccimal Base
+385 / 454
+
+
+1379
+The Base-1 Number System
+200 / 218
+
+
+1380
+Palindometer
+43 / 57
+
+
+1381
+Balloons
+9 / 13
+
+
+1382
+Selling Cells
+2 / 9
+
+
+1383
+Not One Bit More
+6 / 15
+
+
+1384
+Abstract Extract
+4 / 5
+
+
+1385
+Roller Coaster
+27 / 33
+
+
+1386
+Spy Cam
+4 / 8
+
+
+1387
+Underground Cables
+182 / 205
+
+
+1388
+Petrol Stations
+1192 / 1337
+
+
+1389
+Buses
+377 / 509
+
+
+1390
+Car race
+783 / 899
+
+
+1391
+Рекурсия
+1 / 33
+
+1392
+Волновой обход графа
+15 / 138
+
+
+1393
+The Table
+25 / 46
+
+
+1394
+Calculator
+3 / 17
+
+
+1395
+Largest Empty Circle on a Segment
+9 / 14
+
+
+1396
+Problemsetting
+7 / 14
+
+
+1397
+Control Points
+49 / 61
+
+
+1398
+Gamers
+6 / 13
+
+
+1399
+Cosmic Station
+3 / 9
+
+
+1400
+Game
+19 / 29
+
+
+1401
+Proof Generator
+0 / 1
+
+
+1402
+Shares
+145 / 152
+
+
+1403
+Baloo arithmetic
+419 / 630
+
+
+1404
+Сокровища белой кобры
+3 / 10
+
+
+1405
+Sticks
+162 / 204
+
+
+1406
+Великое перемирие
+1 / 8
+
+
+1407
+Мы одной крови, вы и я
+4 / 13
+
+
+1408
+Бананы
+15 / 66
+
+
+1409
+Закон Джунглей
+106 / 139
+
+
+1410
+Рыжие псы
+11 / 13
+
+
+1411
+Вассал моего вассала – не мой вассал!
+36 / 51
+
+
+1412
+Волчьи тропы
+3 / 7
+
+
+1413
+Лакомый кусочек
+8 / 21
+
+
+1414
+Камешки
+223 / 291
+
+
+1415
+Скала Советов
+1110 / 1358
+
+
+1416
+Paths on the board
+79 / 142
+
+
+1417
+Queen Move
+565 / 656
+
+
+1418
+Queen
+88 / 156
+
+
+1419
+Кратчайший путь коня
+70 / 133
+
+
+1420
+Кратчайший путь двух коней
+49 / 73
+
+
+1421
+Ships Approaching
+121 / 135
+
+
+1422
+Домашнее задание
+2 / 5
+
+
+1423
+Затмение
+9 / 12
+
+
+1424
+Автобусные маршруты
+1 / 8
+
+
+1425
+Надежность сети
+3 / 6
+
+
+1426
+Тир
+20 / 25
+
+
+1427
+Calculator
+2530 / 2727
+
+
+1428
+Студенты
+17 / 22
+
+
+1429
+Сравнение чисел
+134 / 152
+
+
+1430
+Папа у Васи силен…
+42 / 53
+
+
+1431
+Охрана поезда
+2 / 18
+
+
+1432
+Танки идут!
+3 / 11
+
+
+1433
+Новогодний снегопад
+1 / 22
+
+
+1434
+Девочка со спичками
+35 / 51
+
+
+1435
+Упаковка спичек
+11 / 27
+
+
+1436
+Счастливая бутылка
+18 / 24
+
+
+1437
+Код замка
+137 / 165
+
+
+1438
+Перевернутые часы
+64 / 70
+
+
+1439
+Паркет для олигарха
+10 / 31
+
+
+1440
+Beautyful squares
+12 / 29
+
+
+1441
+Разложение числа
+15 / 24
+
+1442
+Одномерная Кликомания
+52 / 57
+
+
+1443
+Змейка
+14 / 28
+
+
+1444
+ABC-ребусы
+167 / 176
+
+
+1445
+Road network
+6 / 81
+
+
+1446
+Игра с монетами
+27 / 77
+
+
+1447
+Головоломка учителя
+0 / 19
+
+
+1448
+Шарик в шестиугольнике
+1 / 16
+
+
+1449
+Пилообразная аппроксимация
+19 / 25
+
+
+1450
+Кентавр
+121 / 153
+
+
+1451
+Points symmetry
+98 / 117
+
+
+1452
+Кролики
+2559 / 2860
+
+
+1453
+Ford-Bellman
+997 / 1203
+
+
+1454
+Labyrinth of knowledge
+310 / 480
+
+
+1455
+Cycle
+273 / 411
+
+
+1456
+Барбос и Мухтар
+89 / 99
+
+
+1457
+"Sort" station
+630 / 799
+
+
+1458
+Футбол
+288 / 334
+
+
+1459
+Ревизия
+985 / 1079
+
+
+1460
+Double reverse
+2991 / 3297
+
+
+1461
+Гадалка
+388 / 442
+
+
+1462
+Tricky Sorting
+4010 / 4333
+
+
+1463
+На перекрёстке
+222 / 247
+
+
+1464
+Simple Question
+473 / 632
+
+
+1465
+Navid The Judge
+0 / 3
+
+
+1466
+Hazhir, The King of SBU Jungles!
+18 / 25
+
+
+ 1467
+Point and Polygon
+67 / 107
+
+
+1468
+TripleK
+3 / 6
+
+
+1469
+Fibonacci Again!
+174 / 219
+
+
+1470
+Mine Field
+19 / 35
+
+
+1471
+Number Pyramid
+34 / 56
+
+
+1472
+Dungeon Master II
+9 / 19
+
+
+1473
+Магазин
+1396 / 1605
+
+
+1474
+Сломанные часы
+167 / 212
+
+
+1475
+Дни нерождения
+100 / 137
+
+
+1476
+Морской бой
+150 / 198
+
+
+1477
+Наибольшее среднее
+204 / 260
+
+
+1478
+Rectangle
+16 / 108
+
+
+1479
+Rectangles-1
+11 / 45
+
+
+1480
+Rectangles-2
+1 / 23
+
+
+1481
+Rectangles-3
+1 / 6
+
+
+1482
+Matrix multiplication
+1593 / 1881
+
+
+1483
+Nim Matrix
+103 / 117
+
+
+1484
+Silver Matrix
+49 / 83
+
+
+1485
+Matrix Power Series
+78 / 131
+
+
+1486
+Points
+10 / 29
+
+
+1487
+Бактерии
+8 / 26
+
+
+1488
+Шахматная головоломка
+198 / 230
+
+
+1489
+Шоколад
+474 / 693
+
+
+1490
+Луна
+34 / 62
+
+
+1491
+Ожерелье
+127 / 216
+
+1492
+Гонки
+78 / 152
+
+
+1493
+Робот
+11 / 35
+
+
+1494
+Санта Клаус
+1089 / 1260
+
+
+1495
+Подстрока
+12 / 35
+
+
+1496
+Вода
+3 / 33
+
+
+1497
+Long root
+125 / 232
+
+
+1498
+KMP
+416 / 455
+
+
+1499
+Lines
+159 / 201
+
+
+1500
+Cyclic string
+101 / 150
+
+
+1501
+Conic Distance
+180 / 194
+
+
+1502
+Center of Masses
+189 / 227
+
+
+1503
+Circum Triangle
+151 / 225
+
+
+1504
+Maximal Quadrilateral
+237 / 272
+
+
+1505
+Segments intersection - 2
+93 / 162
+
+
+1506
+Crossed Ladders
+339 / 376
+
+
+1507
+The Laurel-Hardy Story
+186 / 194
+
+
+1508
+Rose windows
+133 / 136
+
+
+1509
+Kingdom Division
+248 / 262
+
+
+1510
+Circle through three points
+205 / 239
+
+
+1511
+Cake Division
+437 / 495
+
+
+1512
+Farey sequences
+421 / 465
+
+
+1513
+Pre, in and post
+498 / 534
+
+
+1514
+Hidden Truth in Recurrence
+293 / 361
+
+
+1515
+Repeated Josephus
+629 / 693
+
+
+1516
+Constructing BST
+395 / 437
+
+1517
+Simple Addition
+1082 / 1616
+
+
+1518
+Triangle Partitioning
+373 / 436
+
+
+1519
+Gray codes
+633 / 673
+
+
+1520
+Odd Divisors
+1603 / 1957
+
+
+1521
+Optimal Matrix Multiplication - 2
+288 / 328
+
+
+1522
+Optimal Binary Search Tree
+363 / 387
+
+
+1523
+Barcelona`s trams
+182 / 198
+
+
+1524
+Marks Distribution
+506 / 589
+
+
+1525
+A Grouping Problem
+200 / 216
+
+
+1526
+Grassland Fence
+225 / 306
+
+
+1527
+Image Traders
+207 / 248
+
+
+1528
+Counting Common Subsequences
+177 / 207
+
+
+1529
+Fence Repairing
+579 / 643
+
+
+1530
+Extended Happy Numbers
+99 / 129
+
+
+1531
+Keys In Boxes
+299 / 328
+
+
+1532
+Hands Shaking
+709 / 823
+
+
+1533
+Anagram generation
+403 / 640
+
+
+1534
+Divisibility
+492 / 597
+
+
+1535
+Skyscrapers
+466 / 502
+
+
+1536
+Sweet Child Makes Trouble
+412 / 504
+
+
+1537
+Stripe
+294 / 369
+
+
+1538
+Thinking Backward
+419 / 505
+
+
+1539
+How Many Points of Intersection?
+561 / 606
+
+
+1540
+23 out of 5
+531 / 645
+
+
+1541
+Series of Powers
+1542
+The ? 1 ? 2 ? ... ? n = k problem
+151 / 161
+
+
+1543
+Back to High School Physics
+993 / 1195
+
+
+1544
+Rare Easy Problem
+370 / 507
+
+
+1545
+Can You Solve It?
+158 / 184
+
+
+1546
+Ants
+195 / 219
+
+
+1547
+Necklace
+199 / 227
+
+
+1548
+Diagonal
+588 / 681
+
+
+1549
+Barbarian tribes
+246 / 269
+
+
+1550
+Bitwise Equations
+274 / 333
+
+
+1551
+Correcting Parenthesization
+383 / 439
+
+
+1552
+Fast Postman
+152 / 172
+
+
+1553
+Platform Jumper
+176 / 204
+
+
+1554
+Forbidden Strings
+650 / 745
+
+
+1555
+Mega Cool Numbers
+54 / 100
+
+
+1556
+Wild Card
+108 / 127
+
+
+1557
+Bracket Maze
+108 / 117
+
+
+1558
+Rube Goldberg Device
+34 / 43
+
+
+1559
+Elective System
+230 / 265
+
+
+1560
+Decreasing Number
+2134 / 2564
+
+
+1561
+RSA Attack
+93 / 108
+
+
+1562
+Modular Equations
+113 / 126
+
+
+1563
+Send a Table
+341 / 396
+
+
+1564
+Number Theory
+473 / 537
+
+
+1565
+Play with Floor and Ceil
+387 / 445
+
+
+1566
+Gergs cake
+25 / 57
+
+1567
+Sum And Product
+81 / 98
+
+
+1568
+Product Triplet
+59 / 72
+
+
+1569
+Divisors
+200 / 269
+
+
+1570
+Be Efficient
+162 / 182
+
+
+1571
+What is the Probability?
+80 / 173
+
+
+1572
+Coupons
+97 / 106
+
+
+1573
+Cows and Cars
+154 / 164
+
+
+1574
+Dice Throwing
+102 / 116
+
+
+1575
+God! Save me
+34 / 64
+
+
+1576
+The Lost Gift
+95 / 103
+
+
+1577
+So you want to be a 2^n-aire?
+92 / 98
+
+
+1578
+Probability Given
+80 / 86
+
+
+1579
+Triple Jump
+56 / 74
+
+
+1580
+Prime Soccer
+91 / 97
+
+
+1581
+The Dice Game
+60 / 64
+
+
+1582
+Laser Shooting
+29 / 42
+
+
+1583
+Shooting Gallery
+85 / 94
+
+
+1584
+Random Shuffle
+28 / 47
+
+
+1585
+Two Lottery Games
+71 / 75
+
+
+1586
+The postfix record
+946 / 1038
+
+
+1587
+Barbershop
+63 / 87
+
+
+1588
+Barge
+50 / 74
+
+
+1589
+Balloons
+216 / 222
+
+
+1590
+Birthday 2
+79 / 189
+
+
+1591
+Shoemaker Problem
+551 / 657
+
+1592
+Bridge
+370 / 456
+
+
+1593
+Elegant permuted sum
+216 / 299
+
+
+1594
+Encoded Sum
+216 / 263
+
+
+1595
+Fill the Box
+218 / 243
+
+
+1596
+Pancakes
+66 / 91
+
+
+1597
+Grouped Word
+37 / 70
+
+
+1598
+Food Collecting
+303 / 341
+
+
+1599
+Dynamic Frog
+211 / 237
+
+
+1601
+GCD of two numbers
+4029 / 4645
+
+
+1602
+LCM of two integers
+3038 / 3607
+
+
+1603
+The sum of digits
+6645 / 7696
+
+
+1604
+The product of even digits in a number
+2494 / 3638
+
+
+1605
+Second digit of the number
+5875 / 6685
+
+
+1606
+The sum of the first and the last digits in the number
+5077 / 5815
+
+
+1607
+The number in reverse order
+5562 / 6494
+
+
+1608
+The number-palindrome
+3511 / 4053
+
+
+1609
+The number of specified digits
+5625 / 6226
+
+
+1610
+Rabbits in the cells
+6310 / 7311
+
+
+1611
+Reverse a substring
+2054 / 2333
+
+
+1612
+Change the one
+1889 / 2033
+
+
+1613
+Two numbers and the four actions
+63 / 115
+
+
+1614
+Angles of triangle
+870 / 1168
+
+
+1615
+Пересечение отрезков
+27 / 80
+
+
+1616
+Prime number?
+2567 / 3373
+
+
+1617
+Blowing up the roads
+365 / 411
+
+1618
+The Longest Common Subsequence
+979 / 1102
+
+
+1619
+House Robber
+1874 / 2399
+
+
+1620
+Monk the Charles Greats
+76 / 144
+
+
+1621
+The sum from 1 to n
+836 / 1862
+
+
+1622
+Orange barrels
+952 / 1306
+
+
+1623
+Even and odd numbers
+7476 / 8777
+
+
+1624
+Day after tomorrow
+673 / 1040
+
+
+1625
+Judging Olympia
+53 / 79
+
+
+1626
+Hide That Number
+30 / 43
+
+
+1627
+Rotating Rings
+23 / 24
+
+
+1628
+A Tale from the Dark Side of the Moon
+21 / 33
+
+
+1629
+Fermat`s Christmas Theorem
+151 / 204
+
+
+1630
+Incidental Points
+18 / 23
+
+
+1631
+Let`s Go to the Movies
+20 / 21
+
+
+1632
+The Writer`s Club
+3 / 5
+
+
+1633
+Moving Sticks
+0 / 1
+
+
+1634
+Johnny Hates Math
+4 / 8
+
+
+1635
+Alien Visit
+15 / 19
+
+
+1636
+Big Number
+0 / 16
+
+
+1638
+Distance
+7 / 12
+
+
+1641
+Golden Spire
+6 / 10
+
+
+1642
+Hometask
+766 / 1346
+
+
+1644
+Joke
+31 / 101
+
+
+1645
+Binary number
+708 / 992
+
+
+1647
+Reset bits
+1889 / 2095
+
+1648
+Fenwick Function
+2341 / 2533
+
+
+1649
+Bit sorting
+5 / 21
+
+
+1650
+Decoding Task
+19 / 22
+
+
+1651
+Maximal XOR
+48 / 65
+
+
+1652
+Многочлен
+61 / 99
+
+
+1653
+Brackets
+87 / 163
+
+
+1654
+Rabbit Hunt
+128 / 162
+
+
+1655
+The Least Common Multiple
+1074 / 1554
+
+
+1656
+Sorting
+641 / 959
+
+
+1657
+Прямоугольники
+82 / 570
+
+
+1658
+Factorial
+5542 / 6103
+
+
+1660
+Game
+49 / 72
+
+
+1661
+Aladdin's knapsack
+336 / 399
+
+
+1663
+Bracket sequences
+54 / 69
+
+
+1664
+Золотая лихорадка
+3 / 22
+
+
+1665
+Вавилонская башня
+23 / 43
+
+
+1666
+Мины
+17 / 20
+
+
+1667
+Конденсация графа
+365 / 418
+
+
+1669
+Паросочетание
+8 / 127
+
+
+1670
+The average distance
+88 / 103
+
+
+1671
+Candy
+12 / 34
+
+
+1672
+Olympiad
+65 / 113
+
+
+1673
+Sim-siм
+32 / 90
+
+
+1674
+Кондиционер
+312 / 325
+
+
+1675
+Квадратный цифровой корень
+65 / 114
+
+1676
+Фрактал
+16 / 32
+
+
+1677
+Змейка
+38 / 56
+
+
+1678
+Подарки
+29 / 64
+
+
+1679
+Честний ланцюжок
+63 / 92
+
+
+1680
+Гамильтонов цикл
+20 / 31
+
+
+1681
+Sum of digits
+174 / 369
+
+
+1682
+Spiderman
+246 / 355
+
+
+1683
+Tourist Routes
+94 / 149
+
+
+1684
+Mobile tariff "Cents"
+961 / 1200
+
+
+1685
+Lands of Antarctica
+1200 / 1286
+
+
+1686
+Fire
+215 / 266
+
+
+1687
+Digits
+72 / 145
+
+
+1688
+Inheritance
+18 / 47
+
+
+1689
+Durak game
+385 / 519
+
+
+1690
+Контрольная работа
+720 / 903
+
+
+1692
+Числовые промежутки
+33 / 50
+
+
+1695
+Студентам - бесплатно!
+13 / 18
+
+
+1696
+The magic number 23
+14 / 20
+
+
+1697
+How to become a winner
+74 / 100
+
+
+1698
+Vasya and his friends
+5 / 28
+
+
+1699
+Отрезки на прямой возвращаются
+9 / 33
+
+
+1700
+Отрезки на прямой возвращаются-2
+1 / 12
+
+
+1701
+Square Counting
+3 / 20
+
+
+1702
+A Greener World
+63 / 67
+
+
+1703
+Левая рекурсия
+228 / 236
+
+1704
+Clever turtle
+1898 / 2088
+
+
+1705
+A bit sequence of the Arnold
+26 / 30
+
+
+1706
+Pinocchio
+39 / 66
+
+
+1707
+Building with Blocks
+2 / 5
+
+
+1708
+Вася против Делиня
+10 / 10
+
+
+1709
+Continuous Drawing
+5 / 5
+
+
+1710
+Counting Quadrilaterals
+6 / 9
+
+
+1711
+Максимальный поток 0
+347 / 409
+
+
+1712
+Максимальный поток 2
+239 / 466
+
+
+1713
+Genetic Code
+13 / 23
+
+
+1714
+Декомпозиция потока
+148 / 206
+
+
+1715
+Хакеры
+0 / 3
+
+
+1716
+Getting Chorded
+7 / 14
+
+
+1717
+OULIPO
+84 / 111
+
+
+1718
+Разворот префиксов
+16 / 28
+
+
+1719
+Симпатичные таблицы
+11 / 12
+
+
+1720
+Посвящение
+0 / 1
+
+
+1721
+Matches
+26 / 66
+
+
+1722
+Sum it up
+39 / 44
+
+
+1723
+Colored Balls
+33 / 45
+
+
+1724
+Столица
+69 / 79
+
+
+1725
+Метро
+10 / 21
+
+
+1726
+Customs duties-1
+87 / 140
+
+
+1727
+Customs duties-2
+27 / 72
+
+
+1728
+Customs duties-3
+0 / 27
+1729
+A + B Problem
+20 / 40
+
+
+1730
+Анализ ДНК
+16 / 41
+
+
+1733
+Цифры и числа
+1 / 8
+
+
+1737
+Джак Изкормвача
+6 / 8
+
+
+1738
+Filling with domino
+249 / 314
+
+
+1739
+A + B
+16 / 22
+
+
+1740
+Максимальный подпалиндром
+180 / 229
+
+
+1741
+Blockade
+11 / 21
+
+
+1742
+Apple from the tree...
+22 / 39
+
+
+1743
+Three Cities
+10 / 19
+
+
+1744
+Dots and lines
+55 / 83
+
+
+1745
+The mafia in the city
+37 / 43
+
+
+1746
+Rook in the maze
+58 / 75
+
+
+1747
+Space Travel
+152 / 169
+
+
+1748
+Transport nodes
+197 / 239
+
+
+1749
+Orange mood
+2 / 7
+
+
+1750
+The product of graphs
+28 / 54
+
+
+1751
+Permutation Representation
+11 / 20
+
+
+1752
+Химия!!!
+37 / 66
+
+
+1753
+Lowest Bit
+1638 / 1815
+
+
+1754
+Пешеход и велосипедист
+2 / 13
+
+
+1755
+Офис
+0 / 2
+
+
+1756
+Optimal Programs
+5 / 9
+
+
+1758
+A + B Problem
+4 / 17
+
+
+1759
+Cute table
+8 / 10
+
+1760
+Изгрызенные книги
+14 / 36
+
+
+1761
+Cute patterns 1
+106 / 131
+
+
+1762
+Numbers
+131 / 169
+
+
+1763
+Сеть
+142 / 194
+
+
+1764
+Последовательность
+38 / 64
+
+
+1765
+Three sequences
+369 / 432
+
+
+1766
+Cell Phone Network
+28 / 80
+
+
+1767
+Diamonds joker
+12 / 18
+
+
+1768
+Schedule
+5 / 12
+
+
+1769
+Дана строкаТМ
+8 / 16
+
+
+1770
+The monkey and the coconuts
+13 / 55
+
+
+1771
+Есть ли жизнь на Марсе?
+9 / 15
+
+
+1772
+Вася и кубик
+267 / 273
+
+
+1773
+Похищение невесты
+8 / 9
+
+
+1774
+Common Subsequence
+181 / 206
+
+
+1775
+Заклинание границы
+6 / 18
+
+
+1776
+Rails
+1025 / 1157
+
+
+1777
+Туристическое агенство
+22 / 31
+
+
+1778
+The Bank Cards
+29 / 46
+
+
+1779
+Weighted Dice
+42 / 48
+
+
+1780
+Коды Грея
+257 / 314
+
+
+1781
+Assignment problem
+245 / 280
+
+
+1782
+The sum of divisors
+462 / 840
+
+
+1783
+Минимальный лексикографически циклический сдвиг
+182 / 202
+
+
+1784
+K-permutation
+132 / 169
+
+1785
+Patterns
+95 / 109
+
+
+1786
+Великий Комбинатор
+163 / 235
+
+
+1787
+Шоколадка
+17 / 55
+
+
+1788
+Inverse permutation
+457 / 544
+
+
+1789
+Degree of a permutation
+224 / 259
+
+
+1790
+Restore the permutation
+137 / 152
+
+
+1792
+Password Search
+146 / 279
+
+
+1793
+Голова на плечах
+6 / 11
+
+
+1794
+По размещению!
+38 / 56
+
+
+1795
+Гладкие числа
+39 / 94
+
+
+1796
+Diameter of the graph
+462 / 506
+
+
+1797
+Взлом хеш-функции
+34 / 40
+
+
+1798
+Графический файл
+45 / 50
+
+
+1799
+Переход рек 2. Мосты возвращаются
+4 / 12
+
+
+1800
+Крестики-нолики
+54 / 76
+
+
+1801
+Parenthesis
+7 / 10
+
+
+1802
+Ropes
+26 / 27
+
+
+1803
+Chain Code
+3 / 8
+
+
+1804
+Task
+3 / 10
+
+
+1805
+Page Count
+55 / 59
+
+
+1806
+Soccer
+23 / 26
+
+
+1807
+Railroad
+37 / 44
+
+
+1808
+Post Office
+28 / 33
+
+
+1809
+Aronson
+22 / 26
+
+
+1810
+Judges` Time Calculation
+44 / 47
+
+
+1811
+Mad Scientist
+57 / 59
+
+
+1812
+Voting
+197 / 211
+
+
+1813
+Queen Collisions
+27 / 32
+
+
+1814
+Mirror, Mirror on the Wall
+148 / 162
+
+
+1815
+Top This
+6 / 7
+
+
+1816
+Quick Search
+22 / 28
+
+
+1817
+Image Compression
+16 / 20
+
+
+1818
+Egyptian Fractions
+28 / 33
+
+
+1819
+Lawn mower
+74 / 84
+
+
+1820
+Periodic points
+5 / 6
+
+
+1821
+Comparing Answers
+49 / 70
+
+
+1822
+Fake scoreboard
+27 / 35
+
+
+1823
+Palindromic DNA
+27 / 42
+
+
+1824
+Jamping monkey
+30 / 34
+
+
+1825
+Sensor network
+28 / 30
+
+
+1826
+Assembly line
+27 / 32
+
+
+1827
+Locks and keys
+12 / 12
+
+
+1828
+3-sided dice
+11 / 22
+
+
+1829
+Tangent to the sphere
+2 / 6
+
+
+1830
+The distance between the segments
+94 / 143
+
+
+1831
+Cones
+6 / 17
+
+
+1832
+Sniper
+1 / 11
+
+
+1833
+Convex hull of the 3D - 1
+36 / 76
+
+
+1834
+Direct
+17 / 26
+
+
+1835
+The mutual arrangement of lines
+4 / 9
+
+
+1836
+Convex hull of the 3D - 2
+65 / 110
+
+
+1837
+Convex hull of the 3D - 3
+47 / 88
+
+
+1838
+The distance from the point to the segment
+104 / 179
+
+
+1839
+Cylinder
+2 / 3
+
+
+1840
+Cut the watermelon
+6 / 7
+
+
+1841
+DNA Robot
+85 / 107
+
+
+1842
+Triangle
+21 / 26
+
+
+1843
+Coins
+3 / 14
+
+
+1844
+Equation
+25 / 36
+
+
+1845
+U-turn bits
+34 / 41
+
+
+1846
+AVL-trees
+30 / 41
+
+
+1847
+Polynomial
+26 / 40
+
+
+1848
+Bifurcation
+26 / 30
+
+
+1849
+Equation 2
+24 / 30
+
+
+1850
+U-turn bits 2
+29 / 34
+
+
+1851
+Duel
+73 / 99
+
+
+1852
+Product
+32 / 201
+
+
+1853
+Sphere
+2 / 5
+
+
+1854
+Triangular King
+29 / 37
+
+
+1855
+Tent
+90 / 101
+
+
+1856
+Championship on fungi Sports
+29 / 37
+
+
+1857
+Vinnimobil
+11 / 16
+
+
+1858
+Rhyme scheme
+37 / 74
+
+
+1859
+Miners
+15 / 22
+
+
+1860
+Present for Piglet
+29 / 39
+
+1861
+Dice
+18 / 25
+
+
+1862
+Five-star challenge
+6 / 9
+
+
+1863
+Strong tiling
+41 / 46
+
+
+1864
+Hamilton Pipeline
+7 / 13
+
+
+1865
+Hexagon and rhombic domino
+6 / 10
+
+
+1866
+Cute patterns 2
+27 / 70
+
+
+1867
+Cards
+21 / 33
+
+
+1868
+Function
+794 / 1036
+
+
+1869
+Paths on the board
+40 / 54
+
+
+1870
+Testing shuffle machines
+64 / 75
+
+
+1871
+Squirrel and bamboo
+907 / 1053
+
+
+1872
+Snowmen
+411 / 487
+
+
+1873
+Вершинное покрытие
+14 / 29
+
+
+1874
+Святкові дні
+2 / 12
+
+
+1875
+The longest path
+19 / 48
+
+
+1876
+Сумма не без разнообразий
+18 / 25
+
+
+1877
+Валидатор к игре в тетрис
+2 / 7
+
+
+1878
+Возьми себе за правило - летай всегда GraphAero!
+32 / 45
+
+
+1879
+Тест к задаче про Клики
+4 / 10
+
+
+1880
+Задача про Клики
+3 / 9
+
+
+1881
+Connect and Disconnect
+12 / 19
+
+
+1882
+Кривые зеркала
+7 / 21
+
+
+1883
+Сортировка вручную
+3 / 34
+
+
+1884
+CHM
+68 / 100
+
+
+1885
+Количество линий
+480 / 539
+
+
+  1886
+Восстановление количества очков
+15 / 32
+
+
+1887
+Как побить все рекорды
+5 / 14
+
+
+1888
+Секретный уровень
+31 / 63
+
+
+1889
+Battlefield
+9 / 16
+
+
+1890
+Breaking a table of records
+9 / 21
+
+
+1891
+Chine
+39 / 43
+
+
+1892
+Construction of warehouse
+9 / 11
+
+
+1893
+Force the hero
+61 / 74
+
+
+1894
+Caravans
+114 / 139
+
+
+1895
+Кто ходит в гости по утрам
+2 / 4
+
+
+1896
+Принц или самозванец
+53 / 66
+
+
+1897
+Что? Где? Когда?
+3 / 4
+
+
+1898
+Укладка плит
+20 / 20
+
+
+1899
+Прохождение коридора
+7 / 11
+
+
+1900
+Игра
+5 / 11
+
+
+1902
+Очень дружная группа
+6 / 7
+
+
+1903
+Деревья с нечётным числом независимых множеств
+1 / 3
+
+
+1904
+Максимальная степень простого
+58 / 128
+
+
+1905
+Minimum degree of prime
+29 / 88
+
+
+1906
+Anniversary
+6 / 56
+
+
+1907
+Trade
+0 / 6
+
+
+1908
+Grid
+3 / 6
+
+
+1909
+Drawing
+4 / 4
+
+
+1910
+Empire
+316 / 359
+
+
+1911
+Reform
+0 / 2
+
+1912
+Constellation
+1 / 2
+
+
+1913
+Presents
+3 / 3
+
+
+1914
+ICPC
+0 / 1
+
+
+1915
+Numbers
+138 / 164
+
+
+1916
+English
+199 / 333
+
+
+1917
+Diamond
+5 / 9
+
+
+1918
+Puzzle
+17 / 30
+
+
+1919
+Automatic Input Verifier
+0 / 2
+
+
+1920
+Friendly Points
+2 / 4
+
+
+1921
+Expanding Lake
+0 / 1
+
+
+1922
+Octahedron And Dominoes
+1 / 2
+
+
+1923
+Tiny Puzzle
+0 / 5
+
+
+1924
+Circular Island
+0 / 2
+
+
+1925
+Traffic Jam
+0 / 3
+
+
+1926
+Number of Permutations
+20 / 23
+
+
+1927
+Perspective
+48 / 57
+
+
+1928
+Enjoy Arithmetic Progressions
+0 / 6
+
+
+1929
+Copletely Non-zero Determinant
+2 / 3
+
+
+1930
+Fast Typing
+0 / 2
+
+
+1931
+XYZX 2009
+21 / 23
+
+
+1932
+Greatest Greatest Commom Divisor
+87 / 118
+
+
+1933
+Colored Wizards
+67 / 89
+
+
+1934
+Graph of operations
+114 / 139
+
+
+1935
+Регулярное паросочетание
+3 / 31
+
+
+1936
+Flights
+442 / 559
+
+1937
+Fire safety
+306 / 348
+
+
+1938
+Островные государства
+86 / 136
+
+
+1939
+Король
+24 / 36
+
+
+1940
+Каток
+27 / 29
+
+
+1941
+Parent
+751 / 1007
+
+
+1942
+Неизбежность
+71 / 91
+
+
+1943
+Bridges
+788 / 1043
+
+
+1944
+Цветные волшебники
+70 / 87
+
+
+1945
+Articulation Points
+673 / 781
+
+
+1946
+Почтальон
+12 / 39
+
+
+1947
+Condensation of the graph
+694 / 872
+
+
+1948
+Topological Sort
+1172 / 1358
+
+
+1949
+Cake
+1385 / 1647
+
+
+1950
+School algebra
+293 / 481
+
+
+1951
+IP-address
+1776 / 2241
+
+
+1952
+Contr-operation
+3740 / 3994
+
+
+1953
+The results of the Olympiad
+1458 / 1610
+
+
+1954
+Mosaic
+1115 / 1196
+
+
+1955
+Calendar
+1152 / 1372
+
+
+1956
+The young hacker
+207 / 278
+
+
+1957
+Silver medal
+2099 / 2393
+
+
+1958
+Divided it?
+181 / 258
+
+
+1959
+Deletion
+110 / 211
+
+
+1960
+Cockroaches
+101 / 153
+
+
+1961
+Forest dwellers
+52 / 79
+
+1962
+The results of the Olympiad
+1525 / 1731
+
+
+1963
+Theater
+247 / 280
+
+
+1964
+What is left?
+68 / 154
+
+
+1965
+Rank
+1673 / 1927
+
+
+1966
+A big plus
+1559 / 1664
+
+
+1967
+Winnie the Pooh
+172 / 270
+
+
+1968
+Balls
+229 / 333
+
+
+1969
+Сфера
+0 / 5
+
+
+1970
+Дэвид Коперфилд отдыхает
+22 / 26
+
+
+1971
+Судьбоносная шахматная задачка
+56 / 69
+
+
+1972
+Раздвоение
+29 / 66
+
+
+1973
+Откат
+27 / 33
+
+
+1974
+День Спонтанного Проявления Доброты
+201 / 251
+
+
+1975
+Сильно связанный сын гор
+1 / 6
+
+
+1976
+Программирование – это искусство!
+0 / 9
+
+
+1977
+Ну очень распространённый метод для графов...
+103 / 160
+
+
+1978
+Организаторские проблемы: тема для диссертации?
+3 / 6
+
+
+1979
+Railroad
+4 / 4
+
+
+1980
+Eustace-Alex
+207 / 265
+
+
+1981
+Mushroom
+77 / 101
+
+
+1982
+Highways
+3 / 8
+
+
+1983
+Ricefield
+93 / 123
+
+
+1984
+Fractions
+129 / 220
+
+
+1985
+Primes Masha
+187 / 218
+
+
+1986
+Masha and the palindrome
+1987
+The Next Permutation
+278 / 303
+
+
+1988
+The largest increasing subsequence
+152 / 278
+
+
+1989
+Maximum matching
+289 / 317
+
+
+1990
+Domino 2
+182 / 240
+
+
+1991
+Maximum flow
+461 / 579
+
+
+1992
+Dividing the graph
+42 / 72
+
+
+1993
+Weighing
+1830 / 2058
+
+
+1994
+Brackets
+302 / 474
+
+
+1995
+How can I help?
+0 / 5
+
+
+1996
+Cakes
+115 / 166
+
+
+1997
+Approximation of progression
+9 / 12
+
+
+1998
+Torah
+3 / 6
+
+
+1999
+Palindrome
+13 / 65
+
+
+2000
+Minefield
+32 / 127
+
+
+2001
+The survey instrument
+10 / 13
+
+
+2002
+Painting Patterns
+10 / 14
+
+
+2003
+Cellular Telecommunications
+3 / 14
+
+
+2004
+Routing
+0 / 3
+
+
+2005
+Weighing 2
+0 / 0
+
+
+2006
+Plus and xor
+154 / 218
+
+
+2007
+Gift
+19 / 53
+
+
+2008
+Tourist
+21 / 58
+
+
+2009
+Points
+146 / 258
+
+
+2010
+Мыши и сыр
+35 / 62
+
+
+2011
+Мутация
+11 / 23
+
+2012
+Sequence
+387 / 488
+
+
+2013
+Area of ​​the hexagon
+554 / 697
+
+
+2014
+Lucky Number
+712 / 839
+
+
+2015
+Game XOR
+254 / 278
+
+
+2016
+Resale of tickets
+248 / 335
+
+
+2017
+Determinant of the matrix
+63 / 92
+
+
+2018
+Minimal d-rate
+14 / 28
+
+
+2019
+Fibonacci sequence
+40 / 106
+
+
+2020
+Subsequence
+17 / 43
+
+
+2021
+Tree
+13 / 15
+
+
+2022
+Cycles in the graph
+135 / 307
+
+
+2023
+Distance to Polygon
+5 / 14
+
+
+2024
+A triangle of maximal area
+5 / 19
+
+
+2025
+Complex game XOR
+87 / 108
+
+
+2026
+LOGO
+8 / 13
+
+
+2027
+Point and the circle
+618 / 691
+
+
+2028
+y = sin x
+93 / 205
+
+
+2029
+Ring
+100 / 218
+
+
+2030
+y = cos x
+67 / 136
+
+
+2031
+Fibonacci sequence
+1132 / 1194
+
+
+2032
+y =| sin(2x)|
+53 / 133
+
+
+2033
+Minimum number of bills
+440 / 549
+
+
+2034
+WERTYU
+952 / 1276
+
+
+2035
+Crypt Kicker
+9 / 71
+
+
+2036
+Age
+989 / 1178
+
+2037
+Crypt Kicker II
+18 / 38
+
+
+2038
+Сравнение URL
+7 / 21
+
+
+2039
+Дробь в LATEX-е
+6 / 51
+
+
+2040
+Common permutation
+775 / 969
+
+
+2041
+The day of the competitors
+1260 / 1385
+
+
+2042
+Monthly and quarterly
+3386 / 3562
+
+
+2043
+Quarter
+2492 / 2642
+
+
+2044
+Month
+3750 / 3948
+
+
+2045
+Four segments
+34 / 134
+
+
+2046
+y =| cos(2x)|
+44 / 104
+
+
+2047
+Almost Union-Find
+93 / 110
+
+
+2048
+Broken Keyboard (a.k.a. Beiju Text)
+46 / 55
+
+
+2049
+Cake Cutting
+0 / 1
+
+
+2050
+Dynamic Inversion
+30 / 40
+
+
+2051
+Easy Problem from Rujia Liu?
+71 / 78
+
+
+2052
+Fast Matrix Operations
+19 / 20
+
+
+2053
+Girls`Celebration
+0 / 0
+
+
+2054
+Happy Painting!
+14 / 15
+
+
+2055
+I Can Guess the Data Structure!
+123 / 137
+
+
+2056
+Jewel Magic
+13 / 16
+
+
+2057
+K Smallest Sums
+33 / 38
+
+
+2058
+Rujia Liu loves Wario Land!
+0 / 0
+
+
+2059
+Lake with lilies
+4884 / 5121
+
+
+2060
+Tale about an apple
+1488 / 1874
+
+
+2061
+Young Programmers
+322 / 532
+
+2062
+Lilavati
+43 / 268
+
+
+2063
+Vasya`s arithmetic
+128 / 245
+
+
+2064
+Vasya`s arithmetic 2
+56 / 84
+
+
+2065
+Vasya and prime numbers
+435 / 720
+
+
+2066
+Vasyas triangles
+407 / 461
+
+
+2067
+Gemini
+68 / 89
+
+
+2068
+Smart dog
+90 / 132
+
+
+2069
+Vasyas tickets
+8 / 33
+
+
+2070
+Strange ice hockey tournament
+57 / 75
+
+
+2071
+Три грибника
+2557 / 2805
+
+
+2072
+Секретное сообщение
+4 / 13
+
+
+2073
+Дорожная реформа
+14 / 20
+
+
+2074
+The cyclic suffixes
+35 / 62
+
+
+2075
+Бесконечная дробь
+7 / 13
+
+
+2076
+Towers
+80 / 96
+
+
+2077
+Дартс
+15 / 19
+
+
+2078
+Сочинитель стихов
+2 / 5
+
+
+2079
+Number of inversions
+11 / 19
+
+
+2080
+Директивы include
+1 / 1
+
+
+2081
+Простецкие числа
+22 / 29
+
+
+2082
+Неточный поиск
+33 / 69
+
+
+2083
+Такси
+145 / 183
+
+
+2084
+Великая стена
+107 / 136
+
+
+2085
+Разрез
+92 / 144
+
+
+2086
+Испорченный паркет
+188 / 319
+
+
+2087
+Мороженое
+0 / 8
+
+
+2088
+Коллекционирование монет
+2 / 4
+
+
+2089
+Уголки
+19 / 25
+
+
+2090
+Встроенная очередь команд
+2 / 6
+
+
+2091
+Клуб "Двоичный кот"
+16 / 21
+
+
+2092
+Балансировка нагрузки
+10 / 15
+
+
+2093
+Охлаждение реактора
+8 / 17
+
+
+2094
+Пешеходные зоны против кольцевых
+1 / 3
+
+
+2095
+Кони
+40 / 47
+
+
+2096
+Сложите многоугольник
+77 / 95
+
+
+2097
+Three digit numbers
+1727 / 1926
+
+
+2098
+Invertor
+3576 / 3752
+
+
+2099
+Two arrays
+2904 / 3128
+
+
+2100
+Список
+176 / 205
+
+
+2101
+Междугородние билеты
+125 / 131
+
+
+2102
+Square
+557 / 813
+
+
+2103
+Knapsack
+907 / 1011
+
+
+2104
+Время игры
+24 / 39
+
+
+2105
+Латинские квадраты
+8 / 25
+
+
+2106
+Amount
+361 / 526
+
+
+2107
+Horatio Riddle
+53 / 81
+
+
+2108
+Reversal sequence
+95 / 107
+
+
+2109
+Скобки
+23 / 35
+
+
+2113
+Amusement Park
+21 / 22
+
+
+2115
+Garden of the Permian
+10 / 16
+
+2123
+Гермес
+0 / 0
+
+
+2124
+Артемида
+0 / 1
+
+
+2126
+Фидий
+25 / 32
+
+
+2127
+Фермер
+12 / 17
+
+
+2129
+Polar angle of a point
+911 / 1134
+
+
+2130
+The angle between the vectors
+2326 / 2633
+
+
+2131
+Vector length
+3934 / 4148
+
+
+2132
+Point on a line
+3123 / 3268
+
+
+2133
+Point on a ray
+928 / 1367
+
+
+2134
+Point on a segment
+924 / 1505
+
+
+2135
+The position of points outside the line
+573 / 716
+
+
+2136
+The distance from a point to direct
+779 / 882
+
+
+2137
+Distance from the point to the beam
+289 / 413
+
+
+2138
+The distance from the point to the segment
+355 / 586
+
+
+2139
+The intersection of two segments
+263 / 465
+
+
+2140
+The distance between the segments
+196 / 320
+
+
+2141
+Equation of the line I
+738 / 798
+
+
+2142
+Equation of the line II
+354 / 415
+
+
+2143
+The intersection of two lines
+346 / 490
+
+
+2144
+The distance from the point to the line
+627 / 685
+
+
+2145
+Parallel lines
+148 / 292
+
+
+2146
+Bisector2123
+Гермес
+0 / 0
+
+
+2124
+Артемида
+0 / 1
+
+
+2126
+Фидий
+25 / 32
+
+
+2127
+Фермер
+12 / 17
+
+
+2129
+Polar angle of a point
+911 / 1134
+
+
+2130
+The angle between the vectors
+2326 / 2633
+
+
+2131
+Vector length
+3934 / 4148
+
+
+2132
+Point on a line
+3123 / 3268
+
+
+2133
+Point on a ray
+928 / 1367
+
+
+2134
+Point on a segment
+924 / 1505
+
+
+2135
+The position of points outside the line
+573 / 716
+
+
+2136
+The distance from a point to direct
+779 / 882
+
+
+2137
+Distance from the point to the beam
+289 / 413
+
+
+2138
+The distance from the point to the segment
+355 / 586
+
+
+2139
+The intersection of two segments
+263 / 465
+
+
+2140
+The distance between the segments
+196 / 320
+
+
+2141
+Equation of the line I
+738 / 798
+
+
+2142
+Equation of the line II
+354 / 415
+
+
+2143
+The intersection of two lines
+346 / 490
+
+
+2144
+The distance from the point to the line
+627 / 685
+
+
+2145
+Parallel lines
+148 / 292
+
+
+2146
+Bisector
+107 / 183
+
+
+2147
+The area of ​​a polygon
+877 / 1093
+
+
+2148
+Convex polygon
+304 / 393
+
+
+2149
+Point in polygon
+165 / 358
+
+107 / 183
+
+
+2147
+The area of ​​a polygon
+877 / 1093
+
+
+2148
+Convex polygon
+304 / 393
+
+
+2149
+Point in polygon
+165 / 358
+
+2150
+Triomino
+55 / 57
+
+
+2151
+Au reservoir
+3 / 6
+
+
+2152
+The Flight Way
+10 / 11
+
+
+2153
+Probablisctic OR
+19 / 21
+
+
+2154
+Party
+10 / 16
+
+
+2155
+Strong-Willed Victory
+38 / 66
+
+
+2156
+Segment Sum
+9 / 10
+
+
+2157
+Sum
+425 / 537
+
+
+2158
+Distance Between Lletters
+210 / 255
+
+
+2159
+String potential
+10 / 19
+
+
+2160
+Fruits
+1 / 4
+
+
+2161
+Football club
+10 / 22
+
+
+2162
+Palindrome
+3516 / 4285
+
+
+2163
+Divide on three!
+3174 / 3709
+
+
+2164
+Julius Caesar Cyfer
+3631 / 3939
+
+
+2165
+Extra spaces
+2032 / 2292
+
+
+2166
+Anagrams
+3600 / 3938
+
+
+2167
+Фишки
+106 / 230
+
+
+2168
+Square punch
+1105 / 1171
+
+
+2169
+Permutations
+1041 / 1153
+
+
+2170
+Repair in Hanoi
+315 / 408
+
+
+2171
+Find a set of patterns 1
+414 / 640
+
+
+2172
+Find a set of patterns 2
+176 / 257
+
+
+2173
+Кубики
+81 / 140
+
+
+2174
+Yandex
+8 / 15
+
+2175
+Palindromes
+69 / 155
+
+
+2176
+Trees Made to Order
+18 / 19
+
+
+2177
+Function Run Fun
+631 / 794
+
+
+2178
+Binary Multiplication
+19 / 36
+
+
+2179
+Palindromic Subsequence
+15 / 44
+
+
+2180
+Ролевая игра
+49 / 63
+
+
+2181
+Колесо Фортуны
+17 / 29
+
+
+2182
+Форматирование текста
+7 / 16
+
+
+2183
+Космические исследования
+3 / 5
+
+
+2184
+Шахматная доска
+133 / 155
+
+
+2185
+Чемпионат по стрельбе
+36 / 46
+
+
+2186
+Делители
+11 / 21
+
+
+2187
+Дом у дороги
+1 / 6
+
+
+2188
+Delaunay triangulation
+2 / 2
+
+
+2189
+Replica Placement
+0 / 4
+
+
+2190
+Цепочка слов
+41 / 50
+
+
+2191
+Диалоги по UCM
+38 / 47
+
+
+2192
+Ничего и не терялось
+10 / 15
+
+
+2193
+Строки
+17 / 21
+
+
+2194
+Число-палиндром
+258 / 295
+
+
+2195
+Проверка орфографии
+39 / 130
+
+
+2196
+Преобразователь строк
+126 / 141
+
+
+2197
+Антипалиндром
+190 / 301
+
+
+2198
+Строчечки
+34 / 39
+
+
+2199
+Циклическое k-расширение
+7 / 17
+
+2200
+Слова
+44 / 65
+
+
+2201
+UFO
+25 / 57
+
+
+2202
+Programming Technology
+1 / 21
+
+
+2203
+Roads
+12 / 21
+
+
+2204
+Weak k-connectivity
+131 / 165
+
+
+2205
+Лифт
+195 / 296
+
+
+2206
+Minibuses
+670 / 868
+
+
+2207
+Electric train
+339 / 392
+
+
+2208
+Такси
+123 / 140
+
+
+2209
+Лифты
+74 / 142
+
+
+2210
+Саморасшифровавшаяся шифровка
+28 / 48
+
+
+2211
+Наибольшая пилообразная подпоследовательность
+51 / 94
+
+
+2212
+Тарифы
+3 / 11
+
+
+2213
+Трехмерные ладьи
+13 / 28
+
+
+2214
+Function 9
+1125 / 1674
+
+
+2215
+Иностранные языки
+25 / 40
+
+
+2217
+Attack of aliens
+18 / 26
+
+
+2218
+Coins
+3498 / 3789
+
+
+2219
+Snow White and n gnomes
+50 / 51
+
+
+2220
+Playing with graph
+6 / 17
+
+
+2221
+About love...
+18 / 90
+
+
+2222
+Matches for children are not toys!
+8 / 11
+
+
+2223
+Maze
+20 / 28
+
+
+2224
+Number
+10 / 19
+
+
+2225
+Beautiful numbers
+6 / 15
+
+
+ 2226
+Zoo
+15 / 26
+
+
+2227
+Necklace of Beads
+57 / 62
+
+
+2228
+Color
+66 / 75
+
+
+2231
+The Vanishing
+4 / 6
+
+
+2234
+"На сковородке" у политеха
+27 / 31
+
+
+2235
+Геодезическая практика студентов
+52 / 76
+
+
+2236
+Играем в "балду"!
+10 / 36
+
+
+2237
+Маринкина копилка
+48 / 86
+
+
+2238
+Who will get the "avtomat"?
+2833 / 3158
+
+
+2239
+Маша и конфеты
+261 / 328
+
+
+2240
+Васька за границей
+86 / 96
+
+
+2241
+Булочки с маком
+152 / 210
+
+
+2242
+Родословное дерево
+34 / 63
+
+
+2243
+Две коллекции
+332 / 359
+
+
+2244
+Не догонишь!
+9 / 20
+
+
+2245
+Super numbers
+222 / 291
+
+
+2246
+Superstring
+62 / 94
+
+
+2248
+Super minimum
+519 / 789
+
+
+2249
+Super sum
+78 / 120
+
+
+2250
+Super calculator
+27 / 35
+
+
+2251
+Супермногоугольники
+1 / 8
+
+
+2254
+Rice Hub
+42 / 83
+
+
+2256
+Танцующие слоны
+0 / 1
+
+
+2259
+Bug2
+2 / 13
+
+
+2260
+Commuting Functions
+3 / 4
+
+
+ 2261
+Defense of a Kingdom
+250 / 280
+
+
+2262
+Explicit Formula
+488 / 524
+
+
+2263
+Frames
+1 / 6
+
+
+2264
+Gadgets Factory
+0 / 5
+
+
+2265
+Horrible Truth
+20 / 21
+
+
+2266
+Ideal Contest
+4 / 11
+
+
+2267
+Journey
+224 / 298
+
+
+2268
+Kitchen Robot
+29 / 58
+
+
+2269
+Connected components
+1696 / 1770
+
+
+2270
+Find a cycle
+1037 / 1376
+
+
+2271
+Точки сочленения 2
+282 / 358
+
+
+2274
+Компоненты реберной двусвязности
+87 / 203
+
+
+2275
+Автомобиль Джона
+0 / 2
+
+
+2277
+Governor
+0 / 5
+
+
+2280
+Job or joy
+0 / 0
+
+
+2281
+To Add or to Multiply
+4 / 5
+
+
+2282
+Afﬁne Mess
+1 / 2
+
+
+2283
+Ancient Messages
+5 / 5
+
+
+2284
+Chips Challenge
+1 / 2
+
+
+2285
+Coffee Central
+3 / 6
+
+
+2286
+Machine Works
+2 / 4
+
+
+2287
+Magic Sticks
+18 / 20
+
+
+2288
+Mining Your Own Business
+19 / 21
+
+
+2289
+Mummy Madness
+13 / 14
+
+
+2290
+Pyramids
+3 / 6
+
+
+ 2291
+Trash Removal
+25 / 26
+
+
+2292
+Fibonacci number
+310 / 518
+
+
+2293
+March 8
+95 / 115
+
+
+2294
+Convex Hull
+21 / 104
+
+
+2295
+How to Make Money
+390 / 419
+
+
+2296
+The thread
+23 / 36
+
+
+2297
+Biorhythms
+32 / 36
+
+
+2298
+Marbles
+79 / 113
+
+
+2299
+Theodore Roosevelt
+143 / 226
+
+
+2300
+Internal point
+58 / 103
+
+
+2301
+A Needle in the Haystack
+190 / 252
+
+
+2302
+Nuts for nuts
+201 / 236
+
+
+2303
+Phone List
+648 / 852
+
+
+2304
+Horrible Queries
+371 / 459
+
+
+2305
+Окна (Easy)
+25 / 32
+
+
+2306
+Steps
+31 / 38
+
+
+2307
+The sum
+527 / 766
+
+
+2308
+Stars
+161 / 200
+
+
+2309
+Windows
+80 / 111
+
+
+2310
+И снова сумма...
+290 / 407
+
+
+2311
+Матрица
+0 / 15
+
+
+2312
+Height of the Tree
+172 / 277
+
+
+2313
+Number of elements
+319 / 376
+
+
+2314
+Second Maximum
+390 / 509
+
+
+2315
+Перестановки (Easy)
+61 / 63
+2316
+Print leaves
+301 / 388
+
+
+2317
+LCA offline (Easy)
+296 / 315
+
+
+2318
+LCA Problem Revisited (Easy)
+98 / 119
+
+
+2319
+Прямоугольники online (Easy)
+14 / 15
+
+
+2320
+Рефрен (Easy)
+25 / 63
+
+
+2321
+Sorting
+6243 / 6711
+
+
+2322
+Columns
+1071 / 1135
+
+
+2323
+Numbers from digits
+1313 / 1404
+
+
+2324
+Scatter
+373 / 435
+
+
+2325
+Two numbers
+1094 / 1154
+
+
+2326
+Socks
+145 / 171
+
+
+2327
+Counting sort
+1575 / 2010
+
+
+2328
+Degree numbers
+249 / 383
+
+
+2329
+Bell
+960 / 1091
+
+
+2330
+Ленточка 2
+5 / 17
+
+
+2331
+Баланс скобок
+101 / 130
+
+
+2332
+Бессмыслица
+26 / 47
+
+
+2333
+Ленточка 3
+0 / 18
+
+
+2334
+Mad tea Party
+15 / 18
+
+
+2335
+Thief of clay
+65 / 67
+
+
+2336
+Большое число
+32 / 58
+
+
+2337
+Ох, уж эти скобки
+9 / 30
+
+
+2338
+Разбиение числа
+10 / 34
+
+
+2339
+НОК
+11 / 51
+
+
+2340
+Сеть
+34 / 59
+
+2341
+Перемещение дамки
+41 / 60
+
+
+2342
+Лучший из худших vs. худший из лучших
+64 / 86
+
+
+2343
+Простой путь
+342 / 370
+
+
+2344
+Перекраска забора
+4 / 17
+
+
+2345
+Ромбы
+13 / 30
+
+
+2346
+Запретный коридор
+49 / 63
+
+
+2347
+Уход за магическими существами
+5 / 9
+
+
+2348
+Нумерология
+18 / 65
+
+
+2349
+Гонки
+2 / 4
+
+
+2350
+Зельеделие
+3 / 9
+
+
+2351
+Dijkstra
+1297 / 1465
+
+
+2352
+Little Bishops
+32 / 38
+
+
+2353
+Tug of War
+18 / 49
+
+
+2354
+Общая подстрока
+13 / 38
+
+
+2355
+Nenokku
+176 / 266
+
+
+2356
+Substring
+75 / 158
+
+
+2357
+Cake
+3 / 9
+
+
+2358
+Шахматы
+58 / 68
+
+
+2359
+Враг моего врага — мой друг!
+18 / 23
+
+
+2360
+Нумерация дробей
+24 / 32
+
+
+2361
+Ямы
+12 / 13
+
+
+2362
+Who is longer?
+15 / 21
+
+
+2363
+Fibonacci subsequence
+194 / 236
+
+
+2364
+Часы
+87 / 115
+
+
+2365
+Конфетки
+10 / 19
+
+2366
+Прыгать!
+6 / 9
+
+
+2367
+Восстановление перестановки
+1 / 1
+
+
+2368
+Лесопилка
+1 / 1
+
+
+2369
+Битва за мёд
+1 / 2
+
+
+2370
+Automated Telephone Exchange
+1537 / 1622
+
+
+2371
+Black Square
+132 / 192
+
+
+2372
+Cube Coloring
+6 / 8
+
+
+2373
+Dice
+17 / 25
+
+
+2374
+Electriﬁcation
+2 / 6
+
+
+2375
+Flat
+925 / 1043
+
+
+2376
+Galaxy Interconnection
+7 / 8
+
+
+2377
+High security
+17 / 31
+
+
+2378
+Immediate Delivery
+7 / 12
+
+
+2379
+John`s Inversions
+96 / 121
+
+
+2380
+Kids Like Cakes
+4 / 13
+
+
+2381
+Two times two
+266 / 298
+
+
+2382
+Grafix Mask
+170 / 215
+
+
+2383
+Electrical Wires
+230 / 275
+
+
+2384
+Sorting Game
+165 / 191
+
+
+2385
+The number of permutations
+1863 / 1955
+
+
+2386
+The next permutation
+301 / 460
+
+
+2387
+Permutation by number
+175 / 268
+
+
+2388
+Number of permutation
+346 / 424
+
+
+2389
+The following combination
+88 / 106
+
+
+2390
+Partitions into summands
+209 / 257
+2391
+Cost of call
+816 / 1348
+
+
+2392
+Interesting Sum
+1176 / 1702
+
+
+2393
+Point and a rectangle
+492 / 630
+
+
+2394
+Number
+73 / 231
+
+
+2395
+Semiperfect number
+90 / 227
+
+
+2396
+The number of English
+226 / 315
+
+
+2397
+Windows
+65 / 177
+
+
+2398
+Circle and segment
+44 / 177
+
+
+2399
+Book
+850 / 1265
+
+
+2400
+Triangles
+2256 / 2743
+
+
+2401
+Breadth First Search
+2112 / 2369
+
+
+2402
+(p, q) - horse
+155 / 197
+
+
+2403
+Strong connectivity
+487 / 529
+
+
+2404
+Games on graph
+10 / 22
+
+
+2405
+Жестокая задача
+114 / 168
+
+
+2406
+Странная игра
+0 / 3
+
+
+2407
+Японский компьютер
+7 / 11
+
+
+2408
+Pawn Game
+25 / 74
+
+
+2409
+Без мата не обошлось...
+1 / 7
+
+
+2410
+Игра в слова
+3 / 6
+
+
+2411
+Сумма игр
+2 / 9
+
+
+2412
+Игра с клавиатурой
+0 / 8
+
+
+2413
+A-B
+19 / 41
+
+
+2414
+Sum of squares
+76 / 236
+
+
+2415
+Disc number
+163 / 215
+
+2416
+Strange number
+21 / 23
+
+
+2417
+Multiplication
+24 / 34
+
+
+2418
+Number
+3 / 5
+
+
+2419
+Order
+6 / 8
+
+
+2420
+Serrated sequence
+20 / 36
+
+
+2421
+Fibonacci numbers
+393 / 634
+
+
+2422
+How many ways?
+89 / 114
+
+
+2423
+Divisibility by 4
+65 / 104
+
+
+2424
+The desired quantity
+106 / 126
+
+
+2425
+System Fibonacci
+96 / 112
+
+
+2426
+The smallest unimaginable
+100 / 145
+
+
+2427
+Система мартингейл
+2 / 2
+
+
+2428
+Торговля
+2 / 6
+
+
+2429
+Минимальная перестановка
+8 / 9
+
+
+2430
+Путешествие
+0 / 1
+
+
+2431
+Ход игры
+2 / 2
+
+
+2432
+Универсальная линейка
+3 / 6
+
+
+2433
+Чудо-дерево
+6 / 9
+
+
+2434
+Ожерелье
+9 / 13
+
+
+2435
+Абелевы группы
+0 / 3
+
+
+2436
+Ожерелье 2
+3 / 3
+
+
+2437
+Минимальная сумма цифр
+1 / 8
+
+
+2438
+Уравнение в перестановках
+1 / 2
+
+
+2439
+Булевы экстремумы
+0 / 5
+
+
+2440
+n-th Largest Value
+693 / 749
+
+2441
+Equal Sum Partitions
+45 / 46
+
+
+2442
+Balls
+29 / 30
+
+
+2443
+Running Median
+86 / 104
+
+
+2444
+Игра в фишки
+82 / 112
+
+
+2445
+Adjacent Bit Counts
+17 / 18
+
+
+2446
+Convex Hull of Lattice Points
+44 / 50
+
+
+2447
+Interior Points of Lattice Polygons
+17 / 18
+
+
+2448
+Theta Puzzle
+22 / 25
+
+
+2449
+Fair Division
+18 / 18
+
+
+2450
+Free Goodies
+20 / 24
+
+
+2451
+High Score
+24 / 29
+
+
+2452
+Hill Driving
+7 / 18
+
+
+2453
+Rankings
+17 / 18
+
+
+2454
+Risk
+15 / 17
+
+
+2455
+Selling Land
+16 / 16
+
+
+2456
+Stock Prices
+17 / 20
+
+
+2457
+Telephone Network
+0 / 4
+
+
+2458
+Wormly
+19 / 20
+
+
+2459
+Юбилей Винни-Пуха
+329 / 422
+
+
+2460
+Суффиксный путь
+13 / 18
+
+
+2461
+Цензура
+27 / 47
+
+
+2462
+Неточное совпадение
+147 / 223
+
+
+2463
+Period of a string
+268 / 363
+
+
+2464
+Жужжащий профессор
+50 / 99
+
+
+2465
+Наименьший циклический сдвиг
+59 / 103
+
+
+ 2466
+Вирусы
+128 / 176
+
+
+2467
+KINA is not abbreviation
+7 / 10
+
+
+2468
+Фабрика палиндромов
+15 / 27
+
+
+2469
+Рефрен
+36 / 172
+
+
+2470
+Checking for an undirected graph
+2706 / 3013
+
+
+2471
+From adjacency matrix to the list of edges
+2205 / 2331
+
+
+2472
+Operations on graph
+1137 / 1326
+
+
+2474
+Поиск гамильтонова цикла в условиях т-мы Хватала
+31 / 84
+
+
+2475
+Индекс
+0 / 6
+
+
+2476
+Друзья и враги
+54 / 79
+
+
+2477
+Странный турнир
+0 / 1
+
+
+2478
+Грани планарного графа
+10 / 18
+
+
+2479
+Parentheses Balance
+2145 / 2777
+
+
+2480
+Гамильтонов цикл в полном графе
+19 / 95
+
+
+2481
+Linear Device
+0 / 2
+
+
+2482
+Чернослив
+11 / 30
+
+
+2483
+Вырезание слова
+2 / 6
+
+
+2484
+Sequence Formatting
+16 / 23
+
+
+2485
+Две кучки
+18 / 26
+
+
+2486
+Две инструкции
+1 / 2
+
+
+2487
+Ревнивая королева
+0 / 1
+
+
+2488
+Суммы по три
+4 / 6
+
+
+2489
+Задача про делители
+0 / 5
+
+
+2490
+Факториал, степени и абелевы группы
+1 / 2
+
+
+2491
+День изобилия
+2 / 7
+
+2492
+Полигон испытаний
+5 / 11
+
+
+2493
+Шагающий робот
+8 / 18
+
+
+2494
+Отчёт 2
+0 / 0
+
+
+2495
+Конкуренция
+3 / 7
+
+
+2496
+String concatenation
+987 / 1039
+
+
+2497
+Tariffs
+144 / 226
+
+
+2498
+K-cортировка
+126 / 145
+
+
+2499
+Рельсы
+6 / 12
+
+
+2500
+Угадай число
+4 / 8
+
+
+2501
+Круговая диаграмма
+409 / 431
+
+
+2502
+Приготовление десертов
+26 / 29
+
+
+2503
+Восстановление строки
+12 / 60
+
+
+2504
+Убей свинью
+7 / 10
+
+
+2505
+Чаепитие
+20 / 27
+
+
+2506
+Универсальная розетка
+418 / 548
+
+
+2507
+Border
+855 / 994
+
+
+2508
+Загранпаспорт
+45 / 50
+
+
+2509
+The post office
+228 / 281
+
+
+2510
+Сортировка очередями
+112 / 129
+
+
+2516
+Вирусы
+3 / 6
+
+
+2522
+Разрезание торта
+0 / 1
+
+
+2523
+Fibonacci Strings
+398 / 658
+
+
+2524
+Fibonacci String
+432 / 522
+
+
+2525
+Fibonacci String
+109 / 147
+
+
+2526
+Concatenation
+6 / 8
+
+
+2527
+BFS (Binary Fibonacci String)
+45 / 56
+
+
+2528
+Diophantus of Alexandria
+74 / 84
+
+
+2529
+Tudoku
+29 / 30
+
+
+2530
+Traveling Queen Problem
+0 / 5
+
+
+2531
+Mine Map
+15 / 17
+
+
+2532
+Knights of the Round Table
+1 / 6
+
+
+2533
+Honeymoon Hike
+20 / 28
+
+
+2534
+Relocation
+18 / 22
+
+
+2535
+Gauß in Elementary School
+70 / 84
+
+
+2536
+Kick-Tipp
+18 / 18
+
+
+2537
+Elephant show
+41 / 45
+
+
+2538
+Encoding binary numbers
+121 / 126
+
+
+2539
+Chorus
+4 / 5
+
+
+2540
+Length and frequency of sentences
+82 / 89
+
+
+2541
+Another word sorting
+109 / 142
+
+
+2542
+Form guide
+10 / 11
+
+
+2543
+Cracking Tree Codes
+1 / 3
+
+
+2544
+uHunt
+4 / 13
+
+
+2545
+Лосенок
+36 / 44
+
+
+2546
+Вилки и ножи
+38 / 45
+
+
+2547
+Белочка
+17 / 24
+
+
+2548
+Симметричная поляна
+6 / 11
+
+
+2549
+Papa Carlo
+326 / 388
+
+
+2550
+Not so trivial problem
+0 / 2
+
+
+2551
+Sort by sum of digits
+0 / 3
+
+
+ 2552
+Roman numerals
+0 / 3
+
+
+2553
+Image and Shadow
+0 / 0
+
+
+2554
+Magic Square
+2 / 6
+
+
+2555
+GLONASS
+0 / 0
+
+
+2556
+Space competition
+0 / 0
+
+
+2557
+Color game
+0 / 1
+
+
+2558
+Serial Numbers
+0 / 0
+
+
+2559
+Processor`s game
+0 / 1
+
+
+2560
+Secret — MAX
+1 / 11
+
+
+2561
+Safety Grade
+12 / 24
+
+
+2562
+Search by template
+7 / 15
+
+
+2563
+Roots Intervals
+7 / 12
+
+
+2564
+Palindromic Dates
+2 / 2
+
+
+2565
+Post Offices
+0 / 0
+
+
+2566
+Choosing a camera
+5 / 14
+
+
+2567
+Road Planner
+0 / 2
+
+
+2568
+Term Generator
+0 / 1
+
+
+2569
+Painting
+1 / 7
+
+
+2570
+Age of Retirement
+7 / 21
+
+
+2571
+Bridges
+3 / 16
+
+
+2573
+Dining Room
+0 / 4
+
+
+2576
+G. tourist
+4 / 18
+
+
+2579
+Jams
+11 / 19
+
+
+2581
+Lamps of the Mind
+1 / 7
+
+
+2585
+Profit
+244 / 291
+2586
+Dividing the Gold
+10 / 16
+
+
+2587
+Traffic Lights
+1 / 4
+
+
+2588
+Symmetry
+110 / 142
+
+
+2589
+Cleaning the Dishes
+290 / 323
+
+
+2590
+Space Exploration
+680 / 739
+
+
+2591
+Crop Circles
+114 / 121
+
+
+2592
+Rectangles intersection
+97 / 131
+
+
+2593
+Сalculation
+210 / 241
+
+
+2594
+Figurе
+386 / 479
+
+
+2595
+Wall
+474 / 676
+
+
+2596
+TC100
+96 / 122
+
+
+2599
+Generic Cow Protests
+3 / 3
+
+
+2605
+Hexagonal Pasture Network
+16 / 16
+
+
+2606
+Minimum and maximum
+6621 / 7063
+
+
+2607
+Divisibility by 11
+2835 / 3018
+
+
+2608
+Amount of information
+324 / 384
+
+
+2609
+Almost primes
+360 / 446
+
+
+2610
+Large numbers
+281 / 306
+
+
+2611
+Replace digit
+2132 / 2887
+
+
+2612
+Разрезание на квадраты
+841 / 1072
+
+
+2613
+Maximum sum
+346 / 445
+
+
+2614
+GNCHE-1
+545 / 581
+
+
+2615
+Archiving
+107 / 159
+
+
+2616
+Lost card
+2664 / 3041
+
+
+2617
+Birthdays
+1582 / 1682
+
 2668
 Spiral
 481 / 1229
